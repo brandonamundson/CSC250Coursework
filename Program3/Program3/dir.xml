@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<folder name = "C:\csc250">
+<folder name = "C:\csc250\EmptyFolder">
+</folder>
+<folder name = "C:\csc250\program 1">
+<file name="prog1.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<folder name = "C:\csc250\program 2">
+<file name="prog2a.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+<file name="prog2b.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<folder name = "C:\csc250\program 3">
+<file name="prog3.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<folder name = "C:\csc250\program 4">
+<folder name = "C:\csc250\program 4\version 1.1">
+<file name="prog4.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<folder name = "C:\csc250\program 4\version 1.2">
+<file name="prog4.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<folder name = "C:\csc250\program 4\version 1.3">
+<file name="prog4.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+<file name="prog4.cpp" DateCreated="Sun Mar 22 14:52:14 2015" />
+</folder>
+</folder>

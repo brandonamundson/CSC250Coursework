@@ -1,0 +1,4239 @@
+<?xml version = "1.0"?>
+<folder name = "C:\Users\7258660\Documents">
+<folder name = "C:\Users\7258660\Documents\Custom Office Templates">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Firefall">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Fun Stuff">
+<folder name = "C:\Users\7258660\Documents\Fun Stuff\Practicum">
+<file name="week-1.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Fun Stuff\Security Club">
+<folder name = "C:\Users\7258660\Documents\Fun Stuff\Security Club\view later">
+<folder name = "C:\Users\7258660\Documents\Fun Stuff\Security Club\view later\sec_club">
+<file name="._burpsuite_free_v1.6.jar" />
+<file name="._python-2.7.9rc1.amd64.msi" />
+<file name="._python-2.7.9rc1.msi" />
+<file name="._ZAP_2.3.1_Linux.tar.gz" />
+<file name="._ZAP_2.3.1_Windows.exe" />
+<file name="burpsuite_free_v1.6.jar" />
+<file name="python-2.7.9rc1.amd64.msi" />
+<file name="python-2.7.9rc1.msi" />
+<file name="ZAP_2.3.1_Linux.tar.gz" />
+<file name="ZAP_2.3.1_Windows.exe" />
+</folder>
+<file name="._jre-7u65-windows-i586.exe" />
+<file name="FirefoxPortable.zip" />
+<file name="jre-7u65-windows-i586.exe" />
+<file name="LibreOffice_4.3.0_Win_x86.msi" />
+<file name="VMware-player-6.0.3-1895310.exe" />
+</folder>
+<file name="coding.txt" />
+<file name="md5_hasing.py" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\branches">
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\hooks">
+<file name="applypatch-msg.sample" />
+<file name="commit-msg.sample" />
+<file name="post-update.sample" />
+<file name="pre-applypatch.sample" />
+<file name="pre-commit.sample" />
+<file name="pre-push.sample" />
+<file name="pre-rebase.sample" />
+<file name="prepare-commit-msg.sample" />
+<file name="update.sample" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\info">
+<file name="exclude" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\logs">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\logs\refs">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\logs\refs\heads">
+<file name="master" />
+<file name="Part2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\logs\refs\remotes">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\logs\refs\remotes\origin">
+<file name="HEAD" />
+<file name="master" />
+<file name="Part2" />
+</folder>
+</folder>
+</folder>
+<file name="HEAD" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\00">
+<file name="be73200dd7d2bb49cb86e309bc8c9b69c09aed" />
+<file name="db0533a14c2272dfd61add48dc9cc86012c281" />
+<file name="e8b54fe27dccf3c187bdf0fc8a66ba6ded948f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\01">
+<file name="e7903804fd63cff0d0eab6a23eee9474362060" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\02">
+<file name="00d88c7e52e7dfb557992b5e8f2fc23919a55a" />
+<file name="1ef159e069494366366cf41c3a86422dfa6a48" />
+<file name="8c25e361df63427739171d773eec735c84725b" />
+<file name="b8ea38977922a76ec5c7d579ffa81ece24247e" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\03">
+<file name="a6414adf4cad9c835474ebad8488bd6bfc278c" />
+<file name="d7b26bdb6af777aea07c8ea71e11ac90398c36" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\04">
+<file name="971808910472346a4076cad9898a6454c9a070" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\05">
+<file name="6de74e23901e33b6492c609f0af063848114f2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\08">
+<file name="6c71a81abbc734fdad9f8515fc4d515ce88e3f" />
+<file name="fda97c16e105f3cb917581c5f1f7d17a8d0772" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\09">
+<file name="2a2fdcec5e89e4f99dc73da1b49abd612cf2ba" />
+<file name="2dc65ebbb2b5caf4385bc2ccb0f28753b40345" />
+<file name="2dee6f59811f5db551adac69cd3857e8470765" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\0b">
+<file name="bbd3e7f59a4180f9c8822494f813c8b33cb366" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\0e">
+<file name="2a71472f4b8ab84bdc2ac844c1e0ae45889897" />
+<file name="ce967cad3e6794c9f91c47a8e24dde2d3064f5" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\0f">
+<file name="bd8922e86111bd33a1f3d4159f4c0dc851670d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\10">
+<file name="8fbb9efe3694f858d986ec464311b863a78880" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\11">
+<file name="64f742bbb1113b6aed10aaa45da82025255cc8" />
+<file name="830eaa393eeafd0ef638f82afc1a0395325f02" />
+<file name="fdc486185d67dc78e4cf128aee2960632a3512" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\12">
+<file name="352e7fd8fb5fc1b05c7795813dbcf810392727" />
+<file name="4540b5d95188c0b060701f53a53c18fe87ce17" />
+<file name="8cac9ffbec1a52ffc147afd58f171701f62c3d" />
+<file name="9516765c8b326de1a73c247bb8fa341fcd0ffd" />
+<file name="a5b948790d7dda8e11eb300438122877ac110e" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\14">
+<file name="b5ea18623a72548d30bf38666ea7c20b24a965" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\16">
+<file name="068ec17f5c6d6b4389364e3f4a4af0fe7d4a7b" />
+<file name="8ab63dc1867d979e048831e25b42fcb7caa49d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\19">
+<file name="8ff0354e0e61483a53df630a3fcf624ac58af5" />
+<file name="d466751e6f0d4246829de3a9c62223c1d09525" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\1a">
+<file name="1e60e8a1b228a9731a26bfee4e6ab2d83a75ad" />
+<file name="72d05cf3610c220a79d21321bee94b52d8f36a" />
+<file name="78d11da1e92ba6796e5d22adcd063df2b34092" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\1d">
+<file name="8f37da9a72f77f7d10980b3c8dc0b840967269" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\1e">
+<file name="9b8fd2b1ed965ecf89e8acc64e74c3f5ca5a88" />
+<file name="bc1e508a7e6b0f500d30a795bb364de1645a6e" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\1f">
+<file name="80d07da11acbf8763f0582298a6f2c6a8b6093" />
+<file name="fa9dc2eae0958927527ff926a4154e71b948a3" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\21">
+<file name="20229d10d8e24aec4ecf19028a1685d6a59fb4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\22">
+<file name="934abeb996712c62c576be6c118b4332c63e6a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\23">
+<file name="1c0916b7c1e6ebcfd7a1cf3c797660f3dfd114" />
+<file name="ccb82cf4ca7e1150682cdb44afff19e0f730c9" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\24">
+<file name="27a9007f16ca45ffcf066e320f0e3f3067497c" />
+<file name="74eaa13a61233a97d076b7ba24c04cffc279a9" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\26">
+<file name="ce3b9ba9f0f813e91dcb2371f5d68e6767185f" />
+<file name="d08b9368340798d1e9724fd867bfef9b7aa004" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\27">
+<file name="1ffd5b39935e5884eca7d42dd15fdbe121ad03" />
+<file name="97e43652771489c04430a0e17113d95f0d58cb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\2a">
+<file name="d4fcced787294f30e24723e8d1adba1de530a8" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\2c">
+<file name="110ed2b637a66e967cb33ec62fa7ac5114dc90" />
+<file name="5c832d07216d6190eab5aafab681b59b30d76a" />
+<file name="b53ab84f00e937ae155b6204531661a9a2936a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\2d">
+<file name="5bf61247f1f0df205c589bd9493bcab87f388c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\2f">
+<file name="191a05f096f4e86512bfba57bb51d6103e4729" />
+<file name="c3608b06f1f7677cec80a192e367967ee2e45f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\30">
+<file name="fa2fba003afd1cb74baee97b8e7e196e8dd2c9" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\32">
+<file name="19b9c31ee4af7ede0637cc378ad8409c4d62a7" />
+<file name="e493b565aa03761376573854ca26e843ddb0ba" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\36">
+<file name="6de9ea7358fb9bf861e9caaf03fb413aa3b3d9" />
+<file name="c3b74327465e5da898f42f5aa741f6f84f524a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\38">
+<file name="29627696a34bddc61e0135471d67295bf568d2" />
+<file name="e6e6e6129d95f4b038b25398cdbe42306375b7" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\3b">
+<file name="0a9639b05e45ff0b105190d446668286f89d41" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\3c">
+<file name="ecf915985b9276d2dee44a2b4f14755e068412" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\3d">
+<file name="0f3cc6d6c1955efaab8a659a40ffeb3425ae21" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\3e">
+<file name="94a11a98437b7d8480a68f5fa641c6c47ad937" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\40">
+<file name="7b0edf2c0c613bdb43cd50646f881e8ef1c867" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\41">
+<file name="1567cab174cb765a83a6d4dbbaf77f343c1806" />
+<file name="2eeda78dc9de1186c2e0e1526764af82ab3431" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\44">
+<file name="8c18b8ab12d7122c9c4f8ead5bf40138cedd0a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\45">
+<file name="519dad40a868b2cc0ad070e70d8d67861a5939" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\49">
+<file name="538f9c91b1111861ce96e73b8c88f4e176f046" />
+<file name="91331257ab3b54612950ee3235551d4c6fb18c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\4a">
+<file name="00120c891c2fd4a46324e0c788456725b36c9d" />
+<file name="154deb677f17718980814ceb8fce5da15b0694" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\4c">
+<file name="65c11619dee7bc09d220369bdcda2178f48607" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\4e">
+<file name="76cdb671acc1f50868feb73a5ce46fe1053e53" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\4f">
+<file name="3791b0fbb831166bbe0d87c0c266699b6bf844" />
+<file name="dd99b4a8bb44a7f292c76aa0c2cae48b8fa277" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\51">
+<file name="01e44489424cb71d1be891b4ae2cbd92424e4b" />
+<file name="8aa9ab51d99c63107510bec68710950f8efee5" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\52">
+<file name="65a6be23b630b0451afd5cf9ac43788f337426" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\54">
+<file name="080666c07eca997dadff701175fce2d3f62c81" />
+<file name="f514521660e98aac253ec46976eccfa848af0a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\55">
+<file name="2581be31525d5562a2bda4b0f3f4801ada5e45" />
+<file name="3002505046e84d6236e7a415c6affb6e8a9c90" />
+<file name="64f25c618fce541440b35c4582631da7c8d3f4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\56">
+<file name="c3faffd4559501ac8799e567668da26c4dda4f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\57">
+<file name="b9eb286bd4dc4f00ac3c720fe3f86f8d0447c1" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\59">
+<file name="f71b3cfd37807ecd94aaa86c3095dac0c53e7c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\5a">
+<file name="351a839b183620a2ca1a838c1cfdd50ab6ff04" />
+<file name="a702900977d3abb36924e7372e1a5903ebdcd7" />
+<file name="e57eb626d8d206666fb73182122b6b7f131a35" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\5d">
+<file name="940d64141d4d3f01116237c1c9810d288d011f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\63">
+<file name="a3e6f7017fa3110d84a7d4edd11ca8ec1e0195" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\64">
+<file name="8ee5ad0f7ac00dd9ac0a3ff9624c787630bd52" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\65">
+<file name="b33e67c745dcd0485510a2557a4acf45025e87" />
+<file name="bdcaa23dc40800c9c0d7619bdc70173887a12f" />
+<file name="f6913572c9f3ec8541c7757bb36017a5bf871d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\67">
+<file name="91cbe3b22ddf2cbae04e8f3ee51509f50b08f4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\68">
+<file name="e8d1efd5bf82ef23971ff9acbeafdab315ed5c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\6a">
+<file name="092804c2455d9bd94ce755b41af924375e8524" />
+<file name="ffba399566d0f861ed53f89ca531dfbb72617a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\6d">
+<file name="1fed7381d37c9bd2c0a2251a260c2e2896471c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\6e">
+<file name="96fc9aaa615fe72ad3ea15f7624477337ac9ae" />
+<file name="cfba547a9a4c2387b8eefee8fb15952d07e597" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\72">
+<file name="4d71a21546cfd648e3650da612f00a7549c267" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\73">
+<file name="29a5886a2b28fd785da2f133ee9756ea267e7b" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\75">
+<file name="803cc22be8c57c28571268916f446d6e1f0945" />
+<file name="88f51d1d02f41a0129dcfb6ec34f6115460edf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\79">
+<file name="a657f21630d55fa6f5b9abe444e7562ca76be5" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\7a">
+<file name="2104ed78e4c6195fafb6f7d04023bdba8514a9" />
+<file name="964d7b30f3bfca32c26e75d892fe4e726eca97" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\7b">
+<file name="5ba8b719bfb75a1a63f8838e9b1b3e47cc1601" />
+<file name="e927cb7974be9f56c526f5c6c36efeb7156e5c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\7d">
+<file name="9db57c7b3d34093c7f75c5e3105069c3ec9f23" />
+<file name="ccc9aeb7b4ee7fb16167dcfcb96a7188742c9e" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\7f">
+<file name="2fbc2c3511e72a194e171f6ddd46ab5e54193d" />
+<file name="4f44d44c210b3690c84609e10c1317f9d44346" />
+<file name="d4b1d98e5d4999119c79e433063b6782c4306a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\80">
+<file name="5ae9eadddb4fb766e780ec9bb59337ac725036" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\84">
+<file name="5acc362f061ef6fb5420ea2a6a2412b78baa66" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\86">
+<file name="8857d36fc8c238c4926d258607d241dda8da6f" />
+<file name="ee11d32044866813edf69613918120357d72a5" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\87">
+<file name="1596f6f527ae6b6baf77254130b57b8f6ab724" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\88">
+<file name="679f31c20be662151165944764e5d62db5d9cd" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\8a">
+<file name="d46dd92aab5e0a89bdbb10a9ffbbd95d529cf1" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\8b">
+<file name="98205d979a11c495d0565f180511d4114fcf5f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\8c">
+<file name="231b8da00111456e5df318a297e5d349085eca" />
+<file name="fac55a97c3d7e1e133815636ec1fb2fdfea948" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\8f">
+<file name="13fc257bc9199e360181a24d22fe158395a445" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\90">
+<file name="11dea2eb174cb0b28274a08a75da6540bc76fc" />
+<file name="a0b1f1d5efe1d36966c04d29d7ec12148bb44d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\91">
+<file name="51580f37aae6ddd80e9f8375a335405fb191ee" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\92">
+<file name="849740bbe80d9bf4fb0e1f13ff2a01e756db94" />
+<file name="ebbac428ca13a6b4be78ef22e14635b9014c94" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\94">
+<file name="34f91dcd50a37cc9f19d9d3c3833e6477ade26" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\97">
+<file name="5e799e1177a5b3f56fb1fc5a51cdd5dc40d5f1" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\98">
+<file name="405d9f7d6859e4b5577d3506bed87a60038381" />
+<file name="ffc91279da8cd09f7b37dbdf6c9128a4be6e73" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\9a">
+<file name="c1f46ac22e05f7b30851433027e878b12e35db" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\9c">
+<file name="0d22a0068e021d07f2a76588e1c2a0bac4cb08" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\9d">
+<file name="a61ce3f838a0a1775f202769c8de4f217e3c12" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\9f">
+<file name="cd7266bc95fc2eaeae569e12aa305b79d8daa2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\a2">
+<file name="2bfd880d10d4884474f38109e86db60c3dc0c6" />
+<file name="b135a3e0279bb3cc10bd6d1bbf16667b0c6f04" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\a4">
+<file name="6231e4543a56eb6032de0aeefb126c44bce900" />
+<file name="b1f5274201aae30a6b57f5101a0ac86110a8c4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\a7">
+<file name="5ea2273aed3f7a6c9ec0d8d2c387f79c3538a2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\aa">
+<file name="24435cab3fec78f683ca58526950d0f1869f80" />
+<file name="761cf9e3670ff3d65176781840cc0b89f6e366" />
+<file name="bf09f28c1a8ebfd3210b903b2fec4ff82fc20d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ad">
+<file name="6be54534b497e732bb5cc760183580a93efab1" />
+<file name="9c5c79f91b77ae773d6944792376630a5a46bd" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ae">
+<file name="3c6149b1a873ed7ac2e2b91abe78d1911e7657" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b0">
+<file name="3269e68a6f8106206eb588069cecb4f740afa2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b1">
+<file name="36eefd0dda10c8fd3faf8dc216fd52a5472369" />
+<file name="efdcd8d80cc8d04d2bd7e48a5a8683eb8fa865" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b5">
+<file name="ed41bb7fa32581a143e71170065e08d355b33f" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b6">
+<file name="84abea53ebecf56f284da2cb9dec66ed071c56" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b7">
+<file name="c27de763b3290575f31c29157b8a7d2f87d476" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\b8">
+<file name="397a2cdaee2cd02314488fc14361894cd130cc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ba">
+<file name="e91e22a2ece03c38e40d3259167a02bf723e31" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\bc">
+<file name="100d10687d6c51e33451beee9025532a420321" />
+<file name="4a26864bcdb30af1e036bbc79b9a5e0d99f818" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\bd">
+<file name="419bb071a3b129c840a07eaa4366012a7bda3d" />
+<file name="684c4128d66b216a33da0f892f2dfc36b0e4fa" />
+<file name="8e1b68beff03afedf02bafd8dc1cbbd16e662b" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\be">
+<file name="af1042a7b2fa58ccc1e4b494d040183f5474bf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\bf">
+<file name="1fde1079b5179a56d5ad3f4d792e236312d786" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c1">
+<file name="3618c1b202d05ab0f1635a5406bf3064ce196b" />
+<file name="9981f09ff979531099dfd9d3aa9c9b7cb87a32" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c3">
+<file name="b30f414349eb74e4f515c6b554954ba68d8c19" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c4">
+<file name="449ccb88363706ce97910eab5d3fa168530363" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c6">
+<file name="8f2283bf5ebf19fe7c2c04b71b4243462b7f18" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c7">
+<file name="9f23ef9edf32bec5e6b75b582598408a7b0d25" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c8">
+<file name="f93714f171f35577966f33c5f68a86a878a8f3" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\c9">
+<file name="48b5352a539e5f018a36aaebe4b693ce106a7c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\cb">
+<file name="b7d95dafdbb1549a656c5cab17ff97879a78fa" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\cc">
+<file name="1de3fb3fc8d7e8872efc2550dd5f9f136fd5c4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\cd">
+<file name="d2f94a44af269b1d2649d09c6c493ed0cce8f6" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ce">
+<file name="963b2a98c5079e98206e1b05a42d9fbc832070" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\cf">
+<file name="3ab3ff6bef65c25773ceb7bf0b8e6ebe88f40a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d0">
+<file name="f17948a26705c60580f173c698e353db724272" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d1">
+<file name="80ff590cf869985b370cc8cda6d9e453c814d4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d3">
+<file name="a0345bc6d23d9026692b0ae14fde832f93d3f2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d4">
+<file name="587e3336cf9c995bea34a26ef27fa42b109bb4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d5">
+<file name="610b2ccb1578fa37c986fa33df6960842ebf0d" />
+<file name="f3b740cbc5850580832c97f376305042e74f40" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d6">
+<file name="52e9656ca939415fab9eb0b97b26c8d1e5ab5a" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\d7">
+<file name="6ab2db269037a700fb69982c86ec2733c58e74" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\dc">
+<file name="11e751d012a8d7a0bd660152f31bebffb48124" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e3">
+<file name="29f88817e49dd8a1b80c42f953a74b7c2c0f2d" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e4">
+<file name="2912aa7117f46c935444ba2751ff3ae6667587" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e5">
+<file name="01fdd49362e8bf7518bfb9709a6f67c24b6bfb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e6">
+<file name="9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e7">
+<file name="3c0ce144ba77290b57216c3a04c86be8fff103" />
+<file name="9c1471f44834fc72f1c9ef327183a75bc1d29c" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e8">
+<file name="e0d5ee780caa67280bbf27c75ae30a306206e5" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\e9">
+<file name="259f5843975c7f9fe92a7563dbdbedf7183766" />
+<file name="ff72f2670aaaf3cc4773ad774a2326d3fdc430" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ec">
+<file name="2e8609511f3bf924a6641f77873c5de302e406" />
+<file name="6282950d22b29aea63dd15759a94525e4890eb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ee">
+<file name="d97d7b03390f70c97c868dbe378615419d48ec" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ef">
+<file name="b76f5de70adfac5945457e6abeb80349d97c88" />
+<file name="da4691013f42147dc277b6af4419849df16cc4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f0">
+<file name="ff1dcb59a50083368f6fe80a0b3ec7c252b438" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f2">
+<file name="0d870e7dd42ad04540d130eaa329767090b4aa" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f4">
+<file name="3723c182226afe1c4d69a6c616b7f15447b1b7" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f5">
+<file name="8a54def4d1d8277fa451914509e9de348d744b" />
+<file name="a08f9bab7663b1293b17b3d763391e540c0425" />
+<file name="f0a04bdfba16ee1c4376e86c4fdb70a33ca145" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f6">
+<file name="dc2ce6bbd4b0d398ef104753147e14e887fbb9" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f7">
+<file name="79b8f169269cc9e359830c1fdd85692c9f036b" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\f8">
+<file name="2c13e2267eb22c0ac37606de01d0516c5bcfcc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\fa">
+<file name="891c06ef5272369a283368a16a049348d90c27" />
+<file name="efec1bad61e47e7d148ba5deaaf88301992120" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\fb">
+<file name="6246a1bf82f8b6b478fcac0fe14aa14e428c99" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\fc">
+<file name="eaf146af74ee5b0f82e59ed4687c8aabbcf9cb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\fd">
+<file name="60cd5a1a03c3432e2739afbcb4b0c53fe7b8a9" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\ff">
+<file name="7b79971ce5478cb69b4b9c3432c003ca4c1b87" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\info">
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\objects\pack">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\refs">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\refs\heads">
+<file name="master" />
+<file name="Part2" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\refs\remotes">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\refs\remotes\origin">
+<file name="HEAD" />
+<file name="master" />
+<file name="Part2" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\.git\refs\tags">
+</folder>
+</folder>
+<file name="COMMIT_EDITMSG" />
+<file name="config" />
+<file name="description" />
+<file name="FETCH_HEAD" />
+<file name="HEAD" />
+<file name="index" />
+<file name="ms-persist.xml" />
+<file name="ORIG_HEAD" />
+<file name="packed-refs" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\Debug">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\Debug\Prog2.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="Prog2.lastbuildstate" />
+</folder>
+<file name="2600.txt" />
+<file name="Brandon.obj" />
+<file name="Cody.obj" />
+<file name="Crawford.obj" />
+<file name="linklist.obj" />
+<file name="prog1.obj" />
+<file name="Prog2.exe" />
+<file name="Prog2.ilk" />
+<file name="Prog2.log" />
+<file name="Prog2.pdb" />
+<file name="results.txt" />
+<file name="Sam.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\html">
+<folder name = "C:\Users\7258660\Documents\GitHub\Program2CSC250\html\search">
+</folder>
+</folder>
+<file name=".gitattributes" />
+<file name=".gitignore" />
+<file name="2600.txt" />
+<file name="BandB.txt" />
+<file name="Brandon.cpp" />
+<file name="Cody.cpp" />
+<file name="Crawford.cpp" />
+<file name="linklist.cpp" />
+<file name="linklist.h" />
+<file name="output.txt" />
+<file name="prog1.cpp" />
+<file name="Prog2.sdf" />
+<file name="Prog2.sln" />
+<file name="Prog2.v12.suo" />
+<file name="Prog2.vcxproj" />
+<file name="Prog2.vcxproj.filters" />
+<file name="Prog2.vcxproj.user" />
+<file name="results.txt" />
+<file name="Sam.cpp" />
+</folder>
+<file name="github-recovery-codes.txt" />
+<file name="GitHubSetup.exe" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\My Music">
+</folder>
+<folder name = "C:\Users\7258660\Documents\My Pictures">
+</folder>
+<folder name = "C:\Users\7258660\Documents\My Videos">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Calc 2">
+<file name="3 Dimensions.jnt" />
+<file name="Binomial series.jnt" />
+<file name="Cross product.jnt" />
+<file name="Exponential f(x)'s.jnt" />
+<file name="funwmatrices.jnt" />
+<file name="Improper Intergrals.jnt" />
+<file name="L'Hopital's Rule.jnt" />
+<file name="Logarithmic Diff.jnt" />
+<file name="Math125-007MapleAssignment1.mw" />
+<file name="matrices.jnt" />
+<file name="matricescont.jnt" />
+<file name="Multiplicative Identity of matrices.jnt" />
+<file name="Test.jnt" />
+<file name="Unit Vectors.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Ceng 244">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Ceng 244\Notes">
+<file name="4 bit Shift Register.jnt" />
+<file name="4 Var K-Maps.jnt" />
+<file name="Binary to Decimal &amp;VV.jnt" />
+<file name="Boolean Algebra.jnt" />
+<file name="Ch 3 K-Maps.jnt" />
+<file name="CH 4.jnt" />
+<file name="Ch 6 Registers &amp; counters.jnt" />
+<file name="Ch6 continued.jnt" />
+<file name="Design procedure.jnt" />
+<file name="Designing Counters.jnt" />
+<file name="Encoders.jnt" />
+<file name="final counters.jnt" />
+<file name="FlipFlops and StateTables.jnt" />
+<file name="Fractions to Binary and octal hex.jnt" />
+<file name="GATES NEW.jnt" />
+<file name="Last minute notes.jnt" />
+<file name="Logic Gates.jnt" />
+<file name="Memory.jnt" />
+<file name="Memory1.jnt" />
+<file name="More Counters.jnt" />
+<file name="More K-Maps and review of pomax and sumofminterms.jnt" />
+<file name="NANDInvertOR.jnt" />
+<file name="quiznotes.jnt" />
+<file name="Registration_Lab Book info.jnt" />
+<file name="Sequential Circuits.jnt" />
+<file name="Signed Numbers and other conversion codes.jnt" />
+<file name="Simplifying Circuits.jnt" />
+<file name="Timing Diagrams.jnt" />
+<file name="Useful Devices.jnt" />
+<file name="Using Multiplexers.jnt" />
+</folder>
+<file name="Backup of lab11.jed" />
+<file name="Backup of lab11.lst" />
+<file name="Backup of lab11.pld" />
+<file name="Backup of lab11.rep" />
+<file name="Homework Rules.doc" />
+<file name="lab1.doc" />
+<file name="lab10.doc" />
+<file name="lab11.Bkp" />
+<file name="lab11.ddb" />
+<file name="lab11.doc" />
+<file name="lab11.txt" />
+<file name="lab2.doc" />
+<file name="lab3.doc" />
+<file name="lab4.doc" />
+<file name="lab5.doc" />
+<file name="lab6.doc" />
+<file name="lab7.doc" />
+<file name="lab8.doc" />
+<file name="lab9.doc" />
+<file name="Previous Backup of lab11.jed" />
+<file name="Syllabus.docx.doc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Chem 112">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Chem 112\1st Quarter">
+<file name="Jespersen_7e_Lecture_ch00-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch01-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch02-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch03-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch04_all probems solved.pptx" />
+<file name="Jespersen_7e_Lecture_ch04_part_01-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch07-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch08-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch09-2014f part 1.pptx" />
+<file name="Jespersen_7e_Lecture_ch09-2014f part 2.pptx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Chem 112\2nd Quarter">
+<file name="Chapter 6 slide answers.jnt" />
+<file name="Jespersen_7e_Lecture_ch05-fall2014.pptx" />
+<file name="Jespersen_7e_Lecture_ch06 class notes day 2.pptx" />
+<file name="Jespersen_7e_Lecture_ch06-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch10-2014f.pptx" />
+<file name="Jespersen_7e_Lecture_ch11-2014f part 1.pptx" />
+<file name="Jespersen_7e_Lecture_ch11-2014f part 2.pptx" />
+<file name="Jespersen_7e_Lecture_ch12-2014f classnotes.pptx" />
+<file name="Jespersen_7e_Lecture_ch12-2014f.pptx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Chem 112\Answer Keys">
+<file name="Answer Key Test 1 all versions (4).pdf" />
+<file name="Answer Key test 4 all versions.pdf" />
+<file name="Chem 112 Exam II Answer Key all versions.pdf" />
+<file name="Jespersen_7e_Lecture_ch05-slides solved.pptx" />
+</folder>
+<file name="Answer Key Test 3 all versions.pdf" />
+<file name="Exam 3 Review-Problems.pptx" />
+<file name="Fall 2014 Schedule Chem 112.pdf" />
+<file name="Syllabus CHEM112  FALL 2014.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150">
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150\Notes">
+<file name="Arrays.jnt" />
+<file name="C Style Strings.jnt" />
+<file name="c++Functions.jnt" />
+<file name="day1notes.jnt" />
+<file name="file.jnt" />
+<file name="files.jnt" />
+<file name="Formatting.jnt" />
+<file name="Misc.jnt" />
+<file name="MoreArrays.jnt" />
+<file name="Pi.jnt" />
+<file name="Returns.jnt" />
+<file name="voids.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150\Prelabs">
+<file name="PreLab 1.docx" />
+<file name="PreLab 10.docx" />
+<file name="PreLab 11.docx" />
+<file name="PreLab 12 (C).docx" />
+<file name="PreLab 2.docx" />
+<file name="PreLab 3.docx" />
+<file name="PreLab 4.docx" />
+<file name="PreLab 5.docx" />
+<file name="PreLab 6.docx" />
+<file name="PreLab 7 .docx" />
+<file name="PreLab 8.docx" />
+<file name="PreLab 9.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150\Program1">
+<file name="amundson_brandon_10092111_prog1.docx" />
+<file name="prog1.exe" />
+<file name="program submitted.txt" />
+<file name="Program1.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150\Program2">
+<file name="A1931D8E2DF25C181BEA52E4225E799B32B11EEF.asc" />
+<file name="amundson_brandon_11072331_prog2.docx" />
+<file name="prog2.exe" />
+<file name="Program2v2.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\CSC 150\Program3">
+<file name="amundson_brandon_12082359_prog3.docx" />
+<file name="header.h" />
+<file name="key1.txt" />
+<file name="key2.txt" />
+<file name="plaintext1.txt" />
+<file name="plaintext2.txt" />
+<file name="prog3.exe" />
+<file name="Program 3.pdf" />
+<file name="program2.jnt" />
+<file name="whatslefttowrite.jnt" />
+</folder>
+<file name="CSC150 Syllabus Fall 2014 rev2.pdf" />
+<file name="CSC150_T3_F14_Rev5_soln.docx" />
+<file name="Documentation grade.docx" />
+<file name="matrix_review.cpp" />
+<file name="SlideSet12_1D_Arrays.pdf" />
+<file name="SlideSet_13_2D_Arrays.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Individual Writing Assignments">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Individual Writing Assignments\1">
+<file name="Native+American+Creation+Myths.docx" />
+<file name="USHIST151INDIVIDUALWRITING.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Individual Writing Assignments\2">
+<file name="english_bill_of_rights.doc" />
+<file name="INDIVIDUALWRITINGASSIGNMENT.docx" />
+<file name="va_declaration_of_rights.doc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Individual Writing Assignments\3">
+<file name="a_foot_race.jpg" />
+<file name="blasphemy.jpg" />
+<file name="Brandon Amundson.docx" />
+<file name="HIST+151+Study+Guide+3.docx" />
+<file name="jq_adams_inaugural_address.rtf" />
+<file name="the_hickory_tree.jpg" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Individual Writing Assignments\4">
+<file name="fifth_debate_douglas.rtf" />
+<file name="fourth_debate_comments..rtf" />
+<file name="IndividualWritingAssignment4.docx" />
+<file name="the_gettysburg_address.rtf" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Hist 151\Powerpoint">
+<file name="A+House+Dividing.ppt" />
+<file name="A+New+Epoch.ppt" />
+<file name="Civil+War.ppt" />
+<file name="ContactBetweenCultures.ppt" />
+<file name="EarlyColonialSocieties.ppt" />
+<file name="Empires.ppt" />
+<file name="Establishing+the+New+Nation.ppt" />
+<file name="LateEnglishColonialSociety.ppt" />
+<file name="On+the+Road+to+Revolution.ppt" />
+<file name="Reconstruction.ppt" />
+<file name="Revolutionary+Politics.ppt" />
+<file name="The+Age+of+Jackson.ppt" />
+<file name="The+Age+of+Reform.ppt" />
+<file name="The+Fabric+of+Change.ppt" />
+<file name="The+Impacts+of+Westward+Expansion.pptx" />
+<file name="The+States.ppt" />
+<file name="Worker+Worlds+in+Antebellum+America.ppt" />
+</folder>
+<file name="Factors Behind European Exploration.jnt" />
+<file name="HIST 151 F14.docx" />
+<file name="HIST151StudyGuide1.docx" />
+<file name="HIST151StudyGuide2.docx" />
+<file name="HIST151StudyGuide3.docx" />
+<file name="HIST151StudyGuide4.docx" />
+<file name="Peoples of Ancient America.jnt" />
+<file name="The Chesapeake (Virgina &amp; Maryland).jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\ArchitectureExplorer">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\array">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\createoutfilename">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\functionprototypes">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\functions">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\passingarrays">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\plain_c">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\practicewithfiles">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\program3">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\sortsearch">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\studentreqs">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Backup Files\switches">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\JavaScript">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\JavaScript\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\SQL_SSDT">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\SQL_SSDT\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual Basic">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual Basic\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual C#">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual C++">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual C++\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual Web Developer">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual Web Developer\My CSS Snippets">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\Visual Web Developer\My HTML Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\XML">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Code Snippets\XML\My Xml Snippets">
+</folder>
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\AmundsonPrelab3">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\AmundsonPrelab3\AmundsonPrelab3">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\AmundsonPrelab3\AmundsonPrelab3\Debug">
+<file name="AmundsonPrelab3.lastbuildstate" />
+<file name="AmundsonPrelab3.log" />
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.708-cvtres.read.1.tlog" />
+<file name="link.708-cvtres.write.1.tlog" />
+<file name="link.708-rc.read.1.tlog" />
+<file name="link.708-rc.write.1.tlog" />
+<file name="link.708.read.1.tlog" />
+<file name="link.708.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="prelab3cpp.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="AmundsonPrelab3.vcxproj" />
+<file name="AmundsonPrelab3.vcxproj.filters" />
+<file name="prelab3cpp.cpp" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\AmundsonPrelab3\Debug">
+<file name="AmundsonPrelab3.exe" />
+<file name="AmundsonPrelab3.ilk" />
+<file name="AmundsonPrelab3.pdb" />
+</folder>
+<file name="AmundsonPrelab3.sdf" />
+<file name="AmundsonPrelab3.sln" />
+<file name="AmundsonPrelab3.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\array">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\array\array">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\array\array\Debug">
+<file name="array.lastbuildstate" />
+<file name="array.log" />
+<file name="array.obj" />
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="array.cpp" />
+<file name="array.vcxproj" />
+<file name="array.vcxproj.filters" />
+<file name="const.h" />
+<file name="prototypes.h" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\array\Debug">
+<file name="array.exe" />
+<file name="array.ilk" />
+<file name="array.pdb" />
+</folder>
+<file name="array.sdf" />
+<file name="array.sln" />
+<file name="array.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\Bob">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\Bob\Bob">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\Bob\Bob\Debug">
+<file name="Bob.lastbuildstate" />
+<file name="Bob.log" />
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="Help.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="Bob.vcxproj" />
+<file name="Bob.vcxproj.filters" />
+<file name="Help.cpp" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\Bob\Debug">
+<file name="Bob.exe" />
+<file name="Bob.ilk" />
+<file name="Bob.pdb" />
+</folder>
+<file name="Bob.sdf" />
+<file name="Bob.sln" />
+<file name="Bob.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\COCOMO">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\COCOMO\COCOMO">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\COCOMO\COCOMO\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="COCOMO.lastbuildstate" />
+<file name="COCOMO.log" />
+<file name="cocomo.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.4380-cvtres.read.1.tlog" />
+<file name="link.4380-cvtres.write.1.tlog" />
+<file name="link.4380-rc.read.1.tlog" />
+<file name="link.4380-rc.write.1.tlog" />
+<file name="link.4380.read.1.tlog" />
+<file name="link.4380.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="cocomo.cpp" />
+<file name="COCOMO.vcxproj" />
+<file name="COCOMO.vcxproj.filters" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\COCOMO\Debug">
+<file name="COCOMO.exe" />
+<file name="COCOMO.ilk" />
+<file name="COCOMO.pdb" />
+</folder>
+<file name="COCOMO.sdf" />
+<file name="COCOMO.sln" />
+<file name="COCOMO.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\codingmorals">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\codingmorals\codingmorals">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\codingmorals\codingmorals\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="codingmorals.lastbuildstate" />
+<file name="codingmorals.log" />
+<file name="findrootmorals.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="codingmorals.vcxproj" />
+<file name="codingmorals.vcxproj.filters" />
+<file name="findrootmorals.cpp" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\codingmorals\Debug">
+<file name="codingmorals.exe" />
+<file name="codingmorals.ilk" />
+<file name="codingmorals.pdb" />
+</folder>
+<file name="codingmorals.sdf" />
+<file name="codingmorals.sln" />
+<file name="codingmorals.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\convert">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\convert\convert">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\convert\convert\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="convert.lastbuildstate" />
+<file name="convert.log" />
+<file name="convert.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="convert.cpp" />
+<file name="convert.vcxproj" />
+<file name="convert.vcxproj.filters" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\convert\Debug">
+<file name="convert.exe" />
+<file name="convert.ilk" />
+<file name="convert.pdb" />
+</folder>
+<file name="convert.sdf" />
+<file name="convert.sln" />
+<file name="convert.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\createoutfilename">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\createoutfilename\createoutfilename">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\createoutfilename\createoutfilename\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="createoutfilename.lastbuildstate" />
+<file name="createoutfilename.log" />
+<file name="createoutfilename.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="createoutfilename.cpp" />
+<file name="createoutfilename.vcxproj" />
+<file name="createoutfilename.vcxproj.filters" />
+<file name="infile.in" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\createoutfilename\Debug">
+<file name="createoutfilename.exe" />
+<file name="createoutfilename.ilk" />
+<file name="createoutfilename.pdb" />
+</folder>
+<file name="createoutfilename.sdf" />
+<file name="createoutfilename.sln" />
+<file name="createoutfilename.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\experimental">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\experimental\Debug">
+<file name="experimental.exe" />
+<file name="experimental.ilk" />
+<file name="experimental.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\experimental\experimental">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\experimental\experimental\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="experimental.lastbuildstate" />
+<file name="experimental.log" />
+<file name="experimental.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.3024-cvtres.read.1.tlog" />
+<file name="link.3024-cvtres.write.1.tlog" />
+<file name="link.3024-rc.read.1.tlog" />
+<file name="link.3024-rc.write.1.tlog" />
+<file name="link.3024.read.1.tlog" />
+<file name="link.3024.write.1.tlog" />
+<file name="link.5660-cvtres.read.1.tlog" />
+<file name="link.5660-cvtres.write.1.tlog" />
+<file name="link.5660-rc.read.1.tlog" />
+<file name="link.5660-rc.write.1.tlog" />
+<file name="link.5660.read.1.tlog" />
+<file name="link.5660.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="experimental.cpp" />
+<file name="experimental.vcxproj" />
+<file name="experimental.vcxproj.filters" />
+</folder>
+<file name="experimental.sdf" />
+<file name="experimental.sln" />
+<file name="experimental.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\factorials">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\factorials\Debug">
+<file name="factorials.exe" />
+<file name="factorials.ilk" />
+<file name="factorials.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\factorials\factorials">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\factorials\factorials\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="factorials.lastbuildstate" />
+<file name="factorials.log" />
+<file name="factorials.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="factorials.cpp" />
+<file name="factorials.vcxproj" />
+<file name="factorials.vcxproj.filters" />
+</folder>
+<file name="factorials.sdf" />
+<file name="factorials.sln" />
+<file name="factorials.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\fuckstupidavast">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\fuckstupidavast\Debug">
+<file name="fuckstupidavast.exe" />
+<file name="fuckstupidavast.ilk" />
+<file name="fuckstupidavast.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\fuckstupidavast\fuckstupidavast">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\fuckstupidavast\fuckstupidavast\Debug">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\fuckstupidavast\fuckstupidavast\Debug\fuckstupidavast.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="fuckstupidavast.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="fuckstupidavast.lastbuildstate" />
+<file name="fuckstupidavast.log" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.3612-cvtres.read.1.tlog" />
+<file name="link.3612-cvtres.write.1.tlog" />
+<file name="link.3612-rc.read.1.tlog" />
+<file name="link.3612-rc.write.1.tlog" />
+<file name="link.3612.read.1.tlog" />
+<file name="link.3612.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="Source.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="fuckstupidavast.vcxproj" />
+<file name="fuckstupidavast.vcxproj.filters" />
+<file name="Source.cpp" />
+</folder>
+<file name="fuckstupidavast.sdf" />
+<file name="fuckstupidavast.sln" />
+<file name="fuckstupidavast.v11.suo" />
+<file name="fuckstupidavast.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functionprototypes">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functionprototypes\Debug">
+<file name="functionprototypes.exe" />
+<file name="functionprototypes.ilk" />
+<file name="functionprototypes.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functionprototypes\functionprototypes">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functionprototypes\functionprototypes\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="functionprototypes.lastbuildstate" />
+<file name="functionprototypes.log" />
+<file name="functionprototypes.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="functionprototypes.cpp" />
+<file name="functionprototypes.vcxproj" />
+<file name="functionprototypes.vcxproj.filters" />
+</folder>
+<file name="functionprototypes.sdf" />
+<file name="functionprototypes.sln" />
+<file name="functionprototypes.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functions">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functions\Debug">
+<file name="functions.exe" />
+<file name="functions.ilk" />
+<file name="functions.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functions\functions">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\functions\functions\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="functions.lastbuildstate" />
+<file name="functions.log" />
+<file name="functions.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="functions.cpp" />
+<file name="functions.vcxproj" />
+<file name="functions.vcxproj.filters" />
+</folder>
+<file name="functions.sdf" />
+<file name="functions.sln" />
+<file name="functions.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\funwithstrings">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\funwithstrings\Debug">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\funwithstrings\funwithstrings">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\funwithstrings\funwithstrings\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="funwithstrings.lastbuildstate" />
+<file name="funwithstrings.log" />
+<file name="funwithstrings.unsuccessfulbuild" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="funwithstrings.cpp" />
+<file name="funwithstrings.vcxproj" />
+<file name="funwithstrings.vcxproj.filters" />
+</folder>
+<file name="funwithstrings.sdf" />
+<file name="funwithstrings.sln" />
+<file name="funwithstrings.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\gradebook">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\gradebook\Debug">
+<file name="gradebook.exe" />
+<file name="gradebook.ilk" />
+<file name="gradebook.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\gradebook\gradebook">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\gradebook\gradebook\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="gradebook.lastbuildstate" />
+<file name="gradebook.log" />
+<file name="gradebook.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="gradebook.cpp" />
+<file name="gradebook.vcxproj" />
+<file name="gradebook.vcxproj.filters" />
+</folder>
+<file name="gradebook.sdf" />
+<file name="gradebook.sln" />
+<file name="gradebook.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\HAPPYMETER">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\HAPPYMETER\Debug">
+<file name="HAPPYMETER.exe" />
+<file name="HAPPYMETER.ilk" />
+<file name="HAPPYMETER.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\HAPPYMETER\HAPPYMETER">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\HAPPYMETER\HAPPYMETER\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HAPPYMETER.lastbuildstate" />
+<file name="HAPPYMETER.log" />
+<file name="HAPPYMETER.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="HAPPYMETER.cpp" />
+<file name="HAPPYMETER.vcxproj" />
+<file name="HAPPYMETER.vcxproj.filters" />
+</folder>
+<file name="HAPPYMETER.sdf" />
+<file name="HAPPYMETER.sln" />
+<file name="HAPPYMETER.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab10">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab10\Debug">
+<file name="lab10.exe" />
+<file name="lab10.ilk" />
+<file name="lab10.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab10\lab10">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab10\lab10\Debug">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab10\lab10\Debug\lab10.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="lab10.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="lab10.lastbuildstate" />
+<file name="lab10.log" />
+<file name="lab10.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="lab10.cpp" />
+<file name="lab10.vcxproj" />
+<file name="lab10.vcxproj.filters" />
+</folder>
+<file name="lab10.sdf" />
+<file name="lab10.sln" />
+<file name="lab10.v11.suo" />
+<file name="lab10.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab11">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab11\Debug">
+<file name="lab11.exe" />
+<file name="lab11.ilk" />
+<file name="lab11.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab11\lab11">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\lab11\lab11\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="lab11.lastbuildstate" />
+<file name="lab11.log" />
+<file name="lab11.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.6396-cvtres.read.1.tlog" />
+<file name="link.6396-cvtres.write.1.tlog" />
+<file name="link.6396-rc.read.1.tlog" />
+<file name="link.6396-rc.write.1.tlog" />
+<file name="link.6396.read.1.tlog" />
+<file name="link.6396.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="lab11.cpp" />
+<file name="lab11.vcxproj" />
+<file name="lab11.vcxproj.filters" />
+<file name="rebar.txt" />
+<file name="requirements.txt" />
+</folder>
+<file name="lab11.sdf" />
+<file name="lab11.sln" />
+<file name="lab11.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\mathcrap">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\mathcrap\Debug">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\mathcrap\mathcrap">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\mathcrap\mathcrap\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="mathcrap.lastbuildstate" />
+<file name="mathcrap.log" />
+<file name="mathcrap.unsuccessfulbuild" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="mathcrap.cpp" />
+<file name="mathcrap.vcxproj" />
+<file name="mathcrap.vcxproj.filters" />
+</folder>
+<file name="mathcrap.sdf" />
+<file name="mathcrap.sln" />
+<file name="mathcrap.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\MyFirstProject">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\MyFirstProject\Debug">
+<file name="MyFirstProject.exe" />
+<file name="MyFirstProject.ilk" />
+<file name="MyFirstProject.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\MyFirstProject\MyFirstProject">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\MyFirstProject\MyFirstProject\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="MyFirstProject.lastbuildstate" />
+<file name="MyFirstProject.log" />
+<file name="Program.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="MyFirstProject.vcxproj" />
+<file name="MyFirstProject.vcxproj.filters" />
+<file name="Program.cpp" />
+</folder>
+<file name="MyFirstProject.sdf" />
+<file name="MyFirstProject.sln" />
+<file name="MyFirstProject.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\oppositeconvert">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\oppositeconvert\Debug">
+<file name="oppositeconvert.exe" />
+<file name="oppositeconvert.ilk" />
+<file name="oppositeconvert.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\oppositeconvert\oppositeconvert">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\oppositeconvert\oppositeconvert\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="convert.obj" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="oppositeconvert.lastbuildstate" />
+<file name="oppositeconvert.log" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="convert.cpp" />
+<file name="oppositeconvert.vcxproj" />
+<file name="oppositeconvert.vcxproj.filters" />
+</folder>
+<file name="oppositeconvert.sdf" />
+<file name="oppositeconvert.sln" />
+<file name="oppositeconvert.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\passingarrays">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\passingarrays\Debug">
+<file name="passingarrays.exe" />
+<file name="passingarrays.ilk" />
+<file name="passingarrays.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\passingarrays\passingarrays">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\passingarrays\passingarrays\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="passingarrays.lastbuildstate" />
+<file name="passingarrays.log" />
+<file name="passingarrays.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="passingarrays.cpp" />
+<file name="passingarrays.vcxproj" />
+<file name="passingarrays.vcxproj.filters" />
+</folder>
+<file name="passingarrays.sdf" />
+<file name="passingarrays.sln" />
+<file name="passingarrays.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\plain_c">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\plain_c\Debug">
+<file name="plain_c.exe" />
+<file name="plain_c.ilk" />
+<file name="plain_c.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\plain_c\plain_c">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\plain_c\plain_c\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.8396-cvtres.read.1.tlog" />
+<file name="link.8396-cvtres.write.1.tlog" />
+<file name="link.8396-rc.read.1.tlog" />
+<file name="link.8396-rc.write.1.tlog" />
+<file name="link.8396.read.1.tlog" />
+<file name="link.8396.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="plain_c.lastbuildstate" />
+<file name="plain_c.log" />
+<file name="plain_c.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="plain_c.c" />
+<file name="plain_c.vcxproj" />
+<file name="plain_c.vcxproj.filters" />
+</folder>
+<file name="plain_c.sdf" />
+<file name="plain_c.sln" />
+<file name="plain_c.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\practicewithfiles">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\practicewithfiles\Debug">
+<file name="practicewithfiles.exe" />
+<file name="practicewithfiles.ilk" />
+<file name="practicewithfiles.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\practicewithfiles\practicewithfiles">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\practicewithfiles\practicewithfiles\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.3696-cvtres.read.1.tlog" />
+<file name="link.3696-cvtres.write.1.tlog" />
+<file name="link.3696-rc.read.1.tlog" />
+<file name="link.3696-rc.write.1.tlog" />
+<file name="link.3696.read.1.tlog" />
+<file name="link.3696.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="practicewithfiles.lastbuildstate" />
+<file name="practicewithfiles.log" />
+<file name="practicewithfiles.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="practicewithfiles.cpp" />
+<file name="practicewithfiles.vcxproj" />
+<file name="practicewithfiles.vcxproj.filters" />
+<file name="practicewithfiles.vcxproj.user" />
+<file name="TextFile1.in" />
+<file name="TextFile1.txt" />
+</folder>
+<file name="practicewithfiles.sdf" />
+<file name="practicewithfiles.sln" />
+<file name="practicewithfiles.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelab12">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelab12\prelab12">
+<file name="prelab12.cpp" />
+<file name="prelab12.vcxproj" />
+<file name="prelab12.vcxproj.filters" />
+</folder>
+<file name="prelab12.sdf" />
+<file name="prelab12.sln" />
+<file name="prelab12.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelabtesting">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelabtesting\Debug">
+<file name="prelabtesting.exe" />
+<file name="prelabtesting.ilk" />
+<file name="prelabtesting.pdb" />
+<file name="sales.txt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelabtesting\prelabtesting">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\prelabtesting\prelabtesting\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.7536-cvtres.read.1.tlog" />
+<file name="link.7536-cvtres.write.1.tlog" />
+<file name="link.7536-rc.read.1.tlog" />
+<file name="link.7536-rc.write.1.tlog" />
+<file name="link.7536.read.1.tlog" />
+<file name="link.7536.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="prelabtesting.lastbuildstate" />
+<file name="prelabtesting.log" />
+<file name="prelabtesting.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="prelabtesting.cpp" />
+<file name="prelabtesting.vcxproj" />
+<file name="prelabtesting.vcxproj.filters" />
+</folder>
+<file name="prelabtesting.sdf" />
+<file name="prelabtesting.sln" />
+<file name="prelabtesting.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1\Debug">
+<file name="program1.exe" />
+<file name="program1.ilk" />
+<file name="program1.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1\program1">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1\program1\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.2200-cvtres.read.1.tlog" />
+<file name="link.2200-cvtres.write.1.tlog" />
+<file name="link.2200-rc.read.1.tlog" />
+<file name="link.2200-rc.write.1.tlog" />
+<file name="link.2200.read.1.tlog" />
+<file name="link.2200.write.1.tlog" />
+<file name="link.3512-cvtres.read.1.tlog" />
+<file name="link.3512-cvtres.write.1.tlog" />
+<file name="link.3512-rc.read.1.tlog" />
+<file name="link.3512-rc.write.1.tlog" />
+<file name="link.3512.read.1.tlog" />
+<file name="link.3512.write.1.tlog" />
+<file name="link.6984-cvtres.read.1.tlog" />
+<file name="link.6984-cvtres.write.1.tlog" />
+<file name="link.6984-rc.read.1.tlog" />
+<file name="link.6984-rc.write.1.tlog" />
+<file name="link.6984.read.1.tlog" />
+<file name="link.6984.write.1.tlog" />
+<file name="link.7892-cvtres.read.1.tlog" />
+<file name="link.7892-cvtres.write.1.tlog" />
+<file name="link.7892-rc.read.1.tlog" />
+<file name="link.7892-rc.write.1.tlog" />
+<file name="link.7892.read.1.tlog" />
+<file name="link.7892.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="prog1.obj" />
+<file name="program1.lastbuildstate" />
+<file name="program1.log" />
+<file name="program1.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1\program1\html">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program1\program1\html\search">
+<file name="close.png" />
+<file name="mag_sel.png" />
+<file name="nomatches.html" />
+<file name="search.css" />
+<file name="search.js" />
+<file name="search_l.png" />
+<file name="search_m.png" />
+<file name="search_r.png" />
+</folder>
+<file name="bc_s.png" />
+<file name="bdwn.png" />
+<file name="closed.png" />
+<file name="doxygen.css" />
+<file name="doxygen.png" />
+<file name="dynsections.js" />
+<file name="files.html" />
+<file name="ftv2blank.png" />
+<file name="ftv2cl.png" />
+<file name="ftv2doc.png" />
+<file name="ftv2folderclosed.png" />
+<file name="ftv2folderopen.png" />
+<file name="ftv2lastnode.png" />
+<file name="ftv2link.png" />
+<file name="ftv2mlastnode.png" />
+<file name="ftv2mnode.png" />
+<file name="ftv2mo.png" />
+<file name="ftv2node.png" />
+<file name="ftv2ns.png" />
+<file name="ftv2plastnode.png" />
+<file name="ftv2pnode.png" />
+<file name="ftv2splitbar.png" />
+<file name="ftv2vertline.png" />
+<file name="index.html" />
+<file name="jquery.js" />
+<file name="nav_f.png" />
+<file name="nav_g.png" />
+<file name="nav_h.png" />
+<file name="open.png" />
+<file name="prog1_8cpp_source.html" />
+<file name="program1_8cpp_source.html" />
+<file name="sync_off.png" />
+<file name="sync_on.png" />
+<file name="tabs.css" />
+<file name="tab_a.png" />
+<file name="tab_b.png" />
+<file name="tab_h.png" />
+<file name="tab_s.png" />
+</folder>
+<file name="prog1.cpp" />
+<file name="program1.vcxproj" />
+<file name="program1.vcxproj.filters" />
+</folder>
+<file name="program1.sdf" />
+<file name="program1.sln" />
+<file name="program1.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2\Debug">
+<file name="program2.exe" />
+<file name="program2.ilk" />
+<file name="program2.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2\program2">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2\program2\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.3320-cvtres.read.1.tlog" />
+<file name="link.3320-cvtres.write.1.tlog" />
+<file name="link.3320-rc.read.1.tlog" />
+<file name="link.3320-rc.write.1.tlog" />
+<file name="link.3320.read.1.tlog" />
+<file name="link.3320.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="prog2.obj" />
+<file name="program2.lastbuildstate" />
+<file name="program2.log" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2\program2\html">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program2\program2\html\search">
+<file name="all_62.html" />
+<file name="all_62.js" />
+<file name="all_63.html" />
+<file name="all_63.js" />
+<file name="all_66.html" />
+<file name="all_66.js" />
+<file name="all_67.html" />
+<file name="all_67.js" />
+<file name="all_6d.html" />
+<file name="all_6d.js" />
+<file name="all_70.html" />
+<file name="all_70.js" />
+<file name="all_74.html" />
+<file name="all_74.js" />
+<file name="close.png" />
+<file name="files_70.html" />
+<file name="files_70.js" />
+<file name="functions_63.html" />
+<file name="functions_63.js" />
+<file name="functions_66.html" />
+<file name="functions_66.js" />
+<file name="functions_67.html" />
+<file name="functions_67.js" />
+<file name="functions_6d.html" />
+<file name="functions_6d.js" />
+<file name="mag_sel.png" />
+<file name="nomatches.html" />
+<file name="pages_62.html" />
+<file name="pages_62.js" />
+<file name="pages_70.html" />
+<file name="pages_70.js" />
+<file name="pages_74.html" />
+<file name="pages_74.js" />
+<file name="search.css" />
+<file name="search.js" />
+<file name="search_l.png" />
+<file name="search_m.png" />
+<file name="search_r.png" />
+</folder>
+<file name="bc_s.png" />
+<file name="bdwn.png" />
+<file name="bug.html" />
+<file name="closed.png" />
+<file name="constants_8h_source.html" />
+<file name="doxygen.css" />
+<file name="doxygen.png" />
+<file name="dynsections.js" />
+<file name="files.html" />
+<file name="ftv2blank.png" />
+<file name="ftv2cl.png" />
+<file name="ftv2doc.png" />
+<file name="ftv2folderclosed.png" />
+<file name="ftv2folderopen.png" />
+<file name="ftv2lastnode.png" />
+<file name="ftv2link.png" />
+<file name="ftv2mlastnode.png" />
+<file name="ftv2mnode.png" />
+<file name="ftv2mo.png" />
+<file name="ftv2node.png" />
+<file name="ftv2ns.png" />
+<file name="ftv2plastnode.png" />
+<file name="ftv2pnode.png" />
+<file name="ftv2splitbar.png" />
+<file name="ftv2vertline.png" />
+<file name="globals.html" />
+<file name="globals_func.html" />
+<file name="index.html" />
+<file name="jquery.js" />
+<file name="nav_f.png" />
+<file name="nav_g.png" />
+<file name="nav_h.png" />
+<file name="open.png" />
+<file name="pages.html" />
+<file name="prog2_8cpp.html" />
+<file name="prog2_8cpp_source.html" />
+<file name="sync_off.png" />
+<file name="sync_on.png" />
+<file name="tabs.css" />
+<file name="tab_a.png" />
+<file name="tab_b.png" />
+<file name="tab_h.png" />
+<file name="tab_s.png" />
+<file name="todo.html" />
+</folder>
+<file name="constants.h" />
+<file name="prog2.cpp" />
+<file name="program2.vcxproj" />
+<file name="program2.vcxproj.filters" />
+</folder>
+<file name="program2.sdf" />
+<file name="program2.sln" />
+<file name="program2.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program3">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program3\Debug">
+<file name="decrypt.txt" />
+<file name="encrypt.txt" />
+<file name="key1.txt" />
+<file name="key2.txt" />
+<file name="plaintext1.txt" />
+<file name="plaintext2.txt" />
+<file name="program3.exe" />
+<file name="program3.ilk" />
+<file name="program3.pdb" />
+<file name="program3.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program3\program3">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\program3\program3\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.1116-cvtres.read.1.tlog" />
+<file name="link.1116-cvtres.write.1.tlog" />
+<file name="link.1116-rc.read.1.tlog" />
+<file name="link.1116-rc.write.1.tlog" />
+<file name="link.1116.read.1.tlog" />
+<file name="link.1116.write.1.tlog" />
+<file name="link.2836-cvtres.read.1.tlog" />
+<file name="link.2836-cvtres.write.1.tlog" />
+<file name="link.2836-rc.read.1.tlog" />
+<file name="link.2836-rc.write.1.tlog" />
+<file name="link.2836.read.1.tlog" />
+<file name="link.2836.write.1.tlog" />
+<file name="link.2948-cvtres.read.1.tlog" />
+<file name="link.2948-cvtres.write.1.tlog" />
+<file name="link.2948-rc.read.1.tlog" />
+<file name="link.2948-rc.write.1.tlog" />
+<file name="link.2948.read.1.tlog" />
+<file name="link.2948.write.1.tlog" />
+<file name="link.3080-cvtres.read.1.tlog" />
+<file name="link.3080-cvtres.write.1.tlog" />
+<file name="link.3080-rc.read.1.tlog" />
+<file name="link.3080-rc.write.1.tlog" />
+<file name="link.3080.read.1.tlog" />
+<file name="link.3080.write.1.tlog" />
+<file name="link.3448-cvtres.read.1.tlog" />
+<file name="link.3448-cvtres.write.1.tlog" />
+<file name="link.3448-rc.read.1.tlog" />
+<file name="link.3448-rc.write.1.tlog" />
+<file name="link.3448.read.1.tlog" />
+<file name="link.3448.write.1.tlog" />
+<file name="link.3660-cvtres.read.1.tlog" />
+<file name="link.3660-cvtres.write.1.tlog" />
+<file name="link.3660-rc.read.1.tlog" />
+<file name="link.3660-rc.write.1.tlog" />
+<file name="link.3660.read.1.tlog" />
+<file name="link.3660.write.1.tlog" />
+<file name="link.3852-cvtres.read.1.tlog" />
+<file name="link.3852-cvtres.write.1.tlog" />
+<file name="link.3852-rc.read.1.tlog" />
+<file name="link.3852-rc.write.1.tlog" />
+<file name="link.3852.read.1.tlog" />
+<file name="link.3852.write.1.tlog" />
+<file name="link.4388-cvtres.read.1.tlog" />
+<file name="link.4388-cvtres.write.1.tlog" />
+<file name="link.4388-rc.read.1.tlog" />
+<file name="link.4388-rc.write.1.tlog" />
+<file name="link.4388.read.1.tlog" />
+<file name="link.4388.write.1.tlog" />
+<file name="link.4676-cvtres.read.1.tlog" />
+<file name="link.4676-cvtres.write.1.tlog" />
+<file name="link.4676-rc.read.1.tlog" />
+<file name="link.4676-rc.write.1.tlog" />
+<file name="link.4676.read.1.tlog" />
+<file name="link.4676.write.1.tlog" />
+<file name="link.4712-cvtres.read.1.tlog" />
+<file name="link.4712-cvtres.write.1.tlog" />
+<file name="link.4712-rc.read.1.tlog" />
+<file name="link.4712-rc.write.1.tlog" />
+<file name="link.4712.read.1.tlog" />
+<file name="link.4712.write.1.tlog" />
+<file name="link.4748-cvtres.read.1.tlog" />
+<file name="link.4748-cvtres.write.1.tlog" />
+<file name="link.4748-rc.read.1.tlog" />
+<file name="link.4748-rc.write.1.tlog" />
+<file name="link.4748.read.1.tlog" />
+<file name="link.4748.write.1.tlog" />
+<file name="link.4800-cvtres.read.1.tlog" />
+<file name="link.4800-cvtres.write.1.tlog" />
+<file name="link.4800-rc.read.1.tlog" />
+<file name="link.4800-rc.write.1.tlog" />
+<file name="link.4800.read.1.tlog" />
+<file name="link.4800.write.1.tlog" />
+<file name="link.4984-cvtres.read.1.tlog" />
+<file name="link.4984-cvtres.write.1.tlog" />
+<file name="link.4984-rc.read.1.tlog" />
+<file name="link.4984-rc.write.1.tlog" />
+<file name="link.4984.read.1.tlog" />
+<file name="link.4984.write.1.tlog" />
+<file name="link.5816-cvtres.read.1.tlog" />
+<file name="link.5816-cvtres.write.1.tlog" />
+<file name="link.5816-rc.read.1.tlog" />
+<file name="link.5816-rc.write.1.tlog" />
+<file name="link.5816.read.1.tlog" />
+<file name="link.5816.write.1.tlog" />
+<file name="link.5844-cvtres.read.1.tlog" />
+<file name="link.5844-cvtres.write.1.tlog" />
+<file name="link.5844-rc.read.1.tlog" />
+<file name="link.5844-rc.write.1.tlog" />
+<file name="link.5844.read.1.tlog" />
+<file name="link.5844.write.1.tlog" />
+<file name="link.6440-cvtres.read.1.tlog" />
+<file name="link.6440-cvtres.write.1.tlog" />
+<file name="link.6440-rc.read.1.tlog" />
+<file name="link.6440-rc.write.1.tlog" />
+<file name="link.6440.read.1.tlog" />
+<file name="link.6440.write.1.tlog" />
+<file name="link.7432-cvtres.read.1.tlog" />
+<file name="link.7432-cvtres.write.1.tlog" />
+<file name="link.7432-rc.read.1.tlog" />
+<file name="link.7432-rc.write.1.tlog" />
+<file name="link.7432.read.1.tlog" />
+<file name="link.7432.write.1.tlog" />
+<file name="link.7584-cvtres.read.1.tlog" />
+<file name="link.7584-cvtres.write.1.tlog" />
+<file name="link.7584-rc.read.1.tlog" />
+<file name="link.7584-rc.write.1.tlog" />
+<file name="link.7584.read.1.tlog" />
+<file name="link.7584.write.1.tlog" />
+<file name="link.7680-cvtres.read.1.tlog" />
+<file name="link.7680-cvtres.write.1.tlog" />
+<file name="link.7680-rc.read.1.tlog" />
+<file name="link.7680-rc.write.1.tlog" />
+<file name="link.7680.read.1.tlog" />
+<file name="link.7680.write.1.tlog" />
+<file name="link.7968-cvtres.read.1.tlog" />
+<file name="link.7968-cvtres.write.1.tlog" />
+<file name="link.7968-rc.read.1.tlog" />
+<file name="link.7968-rc.write.1.tlog" />
+<file name="link.7968.read.1.tlog" />
+<file name="link.7968.write.1.tlog" />
+<file name="link.8788-cvtres.read.1.tlog" />
+<file name="link.8788-cvtres.write.1.tlog" />
+<file name="link.8788-rc.read.1.tlog" />
+<file name="link.8788-rc.write.1.tlog" />
+<file name="link.8788.read.1.tlog" />
+<file name="link.8788.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="prog3.obj" />
+<file name="program3.lastbuildstate" />
+<file name="program3.log" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="header.h" />
+<file name="prog3.cpp" />
+<file name="program3.vcxproj" />
+<file name="program3.vcxproj.filters" />
+<file name="program3.vcxproj.user" />
+</folder>
+<file name="program3.sdf" />
+<file name="program3.sln" />
+<file name="program3.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\quadform">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\quadform\Debug">
+<file name="quadform.exe" />
+<file name="quadform.ilk" />
+<file name="quadform.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\quadform\quadform">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\quadform\quadform\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="quadform.lastbuildstate" />
+<file name="quadform.log" />
+<file name="quadform.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="quadform.cpp" />
+<file name="quadform.vcxproj" />
+<file name="quadform.vcxproj.filters" />
+</folder>
+<file name="quadform.sdf" />
+<file name="quadform.sln" />
+<file name="quadform.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sortsearch">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sortsearch\sortsearch">
+<file name="sortandsearch.cpp" />
+<file name="sortsearch.vcxproj" />
+<file name="sortsearch.vcxproj.filters" />
+</folder>
+<file name="sortsearch.sdf" />
+<file name="sortsearch.sln" />
+<file name="sortsearch.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sphere">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sphere\Debug">
+<file name="Amundson, Finley.exe" />
+<file name="Amundson, Finley.ilk" />
+<file name="Amundson, Finley.pdb" />
+<file name="sphere.exe" />
+<file name="sphere.ilk" />
+<file name="sphere.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sphere\sphere">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sphere\sphere\Debug">
+<file name="Amundson, Finley.lastbuildstate" />
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="sphere.lastbuildstate" />
+<file name="sphere.log" />
+<file name="sphere.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="sphere.cpp" />
+<file name="sphere.vcxproj" />
+<file name="sphere.vcxproj.filters" />
+</folder>
+<file name="Amundson, Finley.sdf" />
+<file name="Amundson, Finley.sln" />
+<file name="Amundson, Finley.suo" />
+<file name="Amundson, Finley.v11.suo" />
+<file name="sphere.sdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop\Debug">
+<file name="sqrt_loop.exe" />
+<file name="sqrt_loop.ilk" />
+<file name="sqrt_loop.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop\sqrt_loop">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop\sqrt_loop\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="sqrt_loop.lastbuildstate" />
+<file name="sqrt_loop.log" />
+<file name="sqrt_loop.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop\sqrt_loop\html">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\sqrt_loop\sqrt_loop\html\search">
+<file name="close.png" />
+<file name="mag_sel.png" />
+<file name="nomatches.html" />
+<file name="search.css" />
+<file name="search.js" />
+<file name="search_l.png" />
+<file name="search_m.png" />
+<file name="search_r.png" />
+</folder>
+<file name="bc_s.png" />
+<file name="bdwn.png" />
+<file name="closed.png" />
+<file name="doxygen.css" />
+<file name="doxygen.png" />
+<file name="dynsections.js" />
+<file name="ftv2blank.png" />
+<file name="ftv2cl.png" />
+<file name="ftv2doc.png" />
+<file name="ftv2folderclosed.png" />
+<file name="ftv2folderopen.png" />
+<file name="ftv2lastnode.png" />
+<file name="ftv2link.png" />
+<file name="ftv2mlastnode.png" />
+<file name="ftv2mnode.png" />
+<file name="ftv2mo.png" />
+<file name="ftv2node.png" />
+<file name="ftv2ns.png" />
+<file name="ftv2plastnode.png" />
+<file name="ftv2pnode.png" />
+<file name="ftv2splitbar.png" />
+<file name="ftv2vertline.png" />
+<file name="index.html" />
+<file name="jquery.js" />
+<file name="nav_f.png" />
+<file name="nav_g.png" />
+<file name="nav_h.png" />
+<file name="open.png" />
+<file name="sync_off.png" />
+<file name="sync_on.png" />
+<file name="tabs.css" />
+<file name="tab_a.png" />
+<file name="tab_b.png" />
+<file name="tab_h.png" />
+<file name="tab_s.png" />
+</folder>
+<file name="sqrt_loop.cpp" />
+<file name="sqrt_loop.vcxproj" />
+<file name="sqrt_loop.vcxproj.filters" />
+</folder>
+<file name="sqrt_loop.sdf" />
+<file name="sqrt_loop.sln" />
+<file name="sqrt_loop.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\stringbeginnings">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\stringbeginnings\Debug">
+<file name="stringbeginnings.exe" />
+<file name="stringbeginnings.ilk" />
+<file name="stringbeginnings.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\stringbeginnings\stringbeginnings">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\stringbeginnings\stringbeginnings\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="stringbeginnings.lastbuildstate" />
+<file name="stringbeginnings.log" />
+<file name="stringbeginnings.unsuccessfulbuild" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="stringbeginnings.cpp" />
+<file name="stringbeginnings.vcxproj" />
+<file name="stringbeginnings.vcxproj.filters" />
+</folder>
+<file name="stringbeginnings.sdf" />
+<file name="stringbeginnings.sln" />
+<file name="stringbeginnings.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\studentreqs">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\studentreqs\Debug">
+<file name="studentreqs.exe" />
+<file name="studentreqs.ilk" />
+<file name="studentreqs.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\studentreqs\studentreqs">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\studentreqs\studentreqs\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.5304-cvtres.read.1.tlog" />
+<file name="link.5304-cvtres.write.1.tlog" />
+<file name="link.5304-rc.read.1.tlog" />
+<file name="link.5304-rc.write.1.tlog" />
+<file name="link.5304.read.1.tlog" />
+<file name="link.5304.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="studentreqs.lastbuildstate" />
+<file name="studentreqs.log" />
+<file name="studentreqs.unsuccessfulbuild" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="studentreqs.cpp" />
+<file name="studentreqs.in" />
+<file name="studentreqs.vcxproj" />
+<file name="studentreqs.vcxproj.filters" />
+</folder>
+<file name="studentreqs.sdf" />
+<file name="studentreqs.sln" />
+<file name="studentreqs.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\switches">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\switches\Debug">
+<file name="switches.exe" />
+<file name="switches.ilk" />
+<file name="switches.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\switches\switches">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\switches\switches\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="switches.lastbuildstate" />
+<file name="switches.log" />
+<file name="switches.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="switches.cpp" />
+<file name="switches.vcxproj" />
+<file name="switches.vcxproj.filters" />
+</folder>
+<file name="switches.sdf" />
+<file name="switches.sln" />
+<file name="switches.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testcmd">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testcmd\testcmd">
+<file name="testcmd.cpp" />
+<file name="testcmd.vcxproj" />
+<file name="testcmd.vcxproj.filters" />
+<file name="testcmd.vcxproj.user" />
+</folder>
+<file name="testcmd.sdf" />
+<file name="testcmd.sln" />
+<file name="testcmd.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testlab">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testlab\Debug">
+<file name="testlab.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testlab\testlab">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\testlab\testlab\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.5996-cvtres.read.1.tlog" />
+<file name="link.5996-cvtres.write.1.tlog" />
+<file name="link.5996-rc.read.1.tlog" />
+<file name="link.5996-rc.write.1.tlog" />
+<file name="link.5996.read.1.tlog" />
+<file name="link.5996.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="testlab.lastbuildstate" />
+<file name="testlab.log" />
+<file name="testlab.obj" />
+<file name="testlab.unsuccessfulbuild" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="testlab.cpp" />
+<file name="testlab.vcxproj" />
+<file name="testlab.vcxproj.filters" />
+</folder>
+<file name="testlab.sdf" />
+<file name="testlab.sln" />
+<file name="testlab.v11.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\trig">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\trig\Debug">
+<file name="trig.exe" />
+<file name="trig.ilk" />
+<file name="trig.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\trig\trig">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Projects\trig\trig\Debug">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link-cvtres.read.1.tlog" />
+<file name="link-cvtres.write.1.tlog" />
+<file name="link-rc.read.1.tlog" />
+<file name="link-rc.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="trig.lastbuildstate" />
+<file name="trig.log" />
+<file name="trig.obj" />
+<file name="vc110.idb" />
+<file name="vc110.pdb" />
+</folder>
+<file name="trig.cpp" />
+<file name="trig.vcxproj" />
+<file name="trig.vcxproj.filters" />
+</folder>
+<file name="trig.sdf" />
+<file name="trig.sln" />
+<file name="trig.v11.suo" />
+</folder>
+<file name="TextFile1.cpp" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\settings">
+<file name="CurrentSettings-2014-08-27.vssettings" />
+<file name="CurrentSettings.vssettings" />
+<file name="FontsAndColorsBackup_a4d6a176-b948-4b29-8c66-53c97a1ed7d0.vssettings" />
+<file name="FontsAndColorsBackup_a5c004b4-2d4b-494e-bf01-45fc492522c7.vssettings" />
+<file name="FontsAndColorsBackup_de3dbbcd-f642-433c-8353-8f1df4370aba.vssettings" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\StartPages">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\Extensibility">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\JavaScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\Visual Basic">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\Visual C#">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\Visual C++ Project">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ItemTemplates\Visual Web Developer">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates">
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\Extensibility">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\JavaScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\Visual Basic">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\Visual C#">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\Visual C++ Project">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Templates\ProjectTemplates\Visual Web Developer">
+</folder>
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 1\Visual Studio 2012\Visualizers">
+</folder>
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project1">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project1\Peer Reviews">
+<file name="AmundsonReview_BerryPaper.docx" />
+<file name="AmundsonReview_CeritelliPaper.docx" />
+<file name="AmundsonReview_MerchenPaper.docx" />
+<file name="BerryReview_AmundsonPaper.docx" />
+<file name="CeritelliReview_AmundsonPaper.docx" />
+<file name="MerchenReview_AmundsonPaper.docx" />
+</folder>
+<file name="Paper 1 Assignment Sheet.docx" />
+<file name="Paper 1 Grading.docx" />
+<file name="Paper 1edited.docx" />
+<file name="Paper 1original.docx" />
+<file name="Paper1.docx" />
+<file name="Paper1final.docx" />
+<file name="Poster1.pptx" />
+<file name="Project 1 Assignment.docx" />
+<file name="Suggested Edits.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project2">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project2\Peer Reviews">
+<file name="AmundsonReview BerryPaper.docx" />
+<file name="AmundsonReview CeritelliPaper.docx" />
+<file name="AmundsonReview MerchenPaper.docx" />
+<file name="CeritelliReview AmundsonPaper.docx" />
+<file name="MerchenReview AmundsonPaper.docx" />
+<file name="Paper 2 Peer Review.docx" />
+</folder>
+<file name="Paper 2 Assignment Sheet.docx" />
+<file name="Paper2.docx" />
+<file name="Paper2draft.docx" />
+<file name="Project 2 Assignment Sheet.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project3">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Comp101\Paper&amp;Project3\Peer Reviews">
+<file name="BerryPaper Amundson Review.docx" />
+<file name="Ceritelli Paper Amundson Review.docx" />
+<file name="CeritelliReview AmundsonPaper.docx" />
+<file name="MerchenPaper Amundson Review.docx" />
+<file name="MerchenReview AmundsonPaper.docx" />
+</folder>
+<file name="Paper 3 Assignment Sheet.docx" />
+<file name="Paper 3.docx" />
+<file name="Paper3draft.docx" />
+<file name="Paper3draftredo.docx" />
+<file name="Paper3Final.docx" />
+<file name="~$per 3 Assignment Sheet.docx" />
+<file name="~$per3draftredo.docx" />
+</folder>
+<file name="1.14.15.jnt" />
+<file name="Adkins+ENGL+101+Syllabus.docx" />
+<file name="McDonalds Prompt.docx" />
+<file name="Syllabus+Contract+and+Quiz.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\cases">
+<file name="case1.ans" />
+<file name="case1.bin" />
+<file name="case2.ans" />
+<file name="case2.bin" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW10-Insert">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW10-Insert\HW10-Insert">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW10-Insert\HW10-Insert\clistdll">
+<file name="clistdll.dll" />
+<file name="clistdll.lib" />
+<file name="SingleCStyle.h" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW10-Insert\HW10-Insert\Debug">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW10-Insert\HW10-Insert\Debug\HW10-Insert.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW10-Insert.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW10-Insert.exe" />
+<file name="HW10-Insert.ilk" />
+<file name="HW10-Insert.log" />
+<file name="HW10-Insert.obj" />
+<file name="HW10-Insert.pdb" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW10-Insert.cpp" />
+<file name="HW10-Insert.sdf" />
+<file name="HW10-Insert.sln" />
+<file name="HW10-Insert.v12.suo" />
+<file name="HW10-Insert.vcxproj" />
+<file name="HW10-Insert.vcxproj.filters" />
+<file name="HW10-Insert.vcxproj.user" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW11-remove">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW11-remove\HW11-remove">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW11-remove\HW11-remove\clist">
+<file name="clistdll.dll" />
+<file name="clistdll.lib" />
+<file name="SingleCStyle.h" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW11-remove\HW11-remove\Debug">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\HW11-remove\HW11-remove\Debug\HW11-remove.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW11-remove.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW11-remove.exe" />
+<file name="HW11-remove.ilk" />
+<file name="HW11-remove.log" />
+<file name="HW11-remove.pdb" />
+<file name="HW11.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW11-remove.sdf" />
+<file name="HW11-remove.sln" />
+<file name="HW11-remove.v12.suo" />
+<file name="HW11-remove.vcxproj" />
+<file name="HW11-remove.vcxproj.filters" />
+<file name="HW11-remove.vcxproj.user" />
+<file name="HW11.cpp" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\hw9">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\hw9\hw9">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\hw9\hw9\Debug">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Homework\hw9\hw9\Debug\hw9.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="hw9.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="hw9.exe" />
+<file name="hw9.ilk" />
+<file name="hw9.log" />
+<file name="hw9.obj" />
+<file name="hw9.pdb" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="CList.dll" />
+<file name="CList.h" />
+<file name="CList.lib" />
+<file name="hw9.cpp" />
+<file name="hw9.sdf" />
+<file name="hw9.sln" />
+<file name="hw9.v12.suo" />
+<file name="hw9.vcxproj" />
+<file name="hw9.vcxproj.filters" />
+</folder>
+</folder>
+<file name="cases.zip" />
+<file name="Homework 1.pdf" />
+<file name="Homework 10.pdf" />
+<file name="Homework 11.pdf" />
+<file name="Homework 12.pdf" />
+<file name="Homework 2.pdf" />
+<file name="Homework 3.pdf" />
+<file name="Homework 4.pdf" />
+<file name="Homework 5.pdf" />
+<file name="Homework 6.pdf" />
+<file name="Homework 7.pdf" />
+<file name="Homework 8.pdf" />
+<file name="Homework 9.pdf" />
+<file name="Homework-template.cpp" />
+<file name="Homework13.docx" />
+<file name="Homework3help.jnt" />
+<file name="Homework7.cpp" />
+<file name="Homework8.cpp" />
+<file name="HW10-Insert.zip" />
+<file name="HW11-remove.zip" />
+<file name="hw9.zip" />
+<file name="numbers.txt" />
+<file name="ReadingUntilEOF.cpp" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Notes">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Notes\April Notes">
+<file name="25.1 Stacks.pptx" />
+<file name="25.2 Copy Constructor.pptx" />
+<file name="Copy Constructors.jnt" />
+<file name="Queues.jnt" />
+<file name="Stack Templates &amp; stl stack.jnt" />
+<file name="Stacks and Converting Infix to pre.post fix.jnt" />
+<file name="Writing Queues.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Notes\February Notes">
+<file name="16 Algorithms - PT 1..pptx" />
+<file name="17 Structures.pptx" />
+<file name="18.0 Command Line Arguments.pptx" />
+<file name="18.1 Ifstreams Files.pptx" />
+<file name="18.2 Ofstream Files.pptx" />
+<file name="18.3 fstream.pptx" />
+<file name="18.4 Binary Files.pptx" />
+<file name="19 Vectors.pptx" />
+<file name="20 Algorithms -PT 2.pptx" />
+<file name="21.1 Recursion - factorial and summation.pptx" />
+<file name="21.2 Recursion - strings.pptx" />
+<file name="21.3 Recursion - Binary Search.pptx" />
+<file name="21.4 Recursion - Fibonacci.pptx" />
+<file name="21.5 Recursion - Spocks Dilemma.pptx" />
+<file name="22.1 ADTs Circle.pptx" />
+<file name="22.2 ADTs Temperature.pptx" />
+<file name="22.3 ADTs Unordered List.pptx" />
+<file name="22.4 ADT's Ordered List.pptx" />
+<file name="23.1 Linked List.pptx" />
+<file name="C Strings.doc" />
+<file name="code available for use, not taught.jnt" />
+<file name="Linked List.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Notes\January Notes">
+<file name="00.1 cmath Library.pptx" />
+<file name="00.2 cctype library.pptx" />
+<file name="01 The Basics.pptx" />
+<file name="02 Data Types.pptx" />
+<file name="03 Variables and Constants.pptx" />
+<file name="04 Enumeration.pptx" />
+<file name="05 Typedef.pptx" />
+<file name="06 Arithmetic Expressions.pptx" />
+<file name="07 Logical Expressions.pptx" />
+<file name="08 Control Structures.pptx" />
+<file name="09.1 Binary System.pptx" />
+<file name="09.2 Bitwise.pptx" />
+<file name="10 Loops.pptx" />
+<file name="11 functions.pptx" />
+<file name="12.1 1D Arrays.pptx" />
+<file name="12.2 2D Arrays.pptx" />
+<file name="13.1 Pointers.pptx" />
+<file name="13.2 Dynamic 1d arrays.pptx" />
+<file name="13.3 Dynamic 2d arrays.pptx" />
+<file name="14.1 C Strings.pptx" />
+<file name="14.2 C++ Strings.pptx" />
+<file name="15 Iterators.pptx" />
+<file name="notes day 4.jnt" />
+<file name="The Basics.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Notes\March Notes">
+<file name="23.3 C - Style Linked List.pptx" />
+<file name="23.4 Doubly Linked Lists.pptx" />
+<file name="23.5 Circular Linked Lists.pptx" />
+<file name="23.6 STL List.pptx" />
+<file name="24.1 Permutations.pptx" />
+<file name="24.3a Introduction to Prefix and Postfix.pptx" />
+<file name="24.3b Validations of Prefix and Postfix.pptx" />
+<file name="Circular Linked List.jnt" />
+<file name="Insert&amp;removewDoubleLinkList.jnt" />
+</folder>
+<file name="cscexamnotes.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Programs">
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Programs\Program1">
+<file name="bintool.exe" />
+<file name="CSC250_Program1.docx" />
+<file name="dbham.bin" />
+<file name="Errors and other debugging issues.docx" />
+<file name="Program 1 Grade Sheet.docx" />
+<file name="Program I Grade Sheet.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Programs\Program2">
+<file name="BandB.txt" />
+<file name="Program 2.docx" />
+<file name="Team Evaluation.doc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Programs\Program3">
+<file name="CSC Program 3.docx" />
+<file name="CSC250 Program 3v1.pdf" />
+<file name="csc250.zip" />
+<file name="FileSystem.docx" />
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\CSC250\Tutorials">
+<file name="01 Installing VS2013.mp4" />
+<file name="01 Installing VS2013.pptx" />
+<file name="02 Opening VS2013 for the  First Time.mp4" />
+<file name="02 Opening VS2013 for the  First Time.pptx" />
+<file name="03 Creating a Single File Project.mp4" />
+<file name="03 Creating a Single File Project.pptx" />
+<file name="04 Productivity Power Tools.mp4" />
+<file name="04 Productivity Power Tools.pptx" />
+<file name="05 Doxygen.mp4" />
+<file name="05 Doxygen.pptx" />
+<file name="06 Doxygen Program Header.mp4" />
+<file name="06 Doxygen Program Header.pptx" />
+<file name="07 Doxygen Function Header.mp4" />
+<file name="07 Doxygen Function Header.pptx" />
+<file name="08 Doxygen Constants, Enums, typedefs and Structures.mp4" />
+<file name="08 Doxygen Constants, Enums, typedefs and Structures.pptx" />
+<file name="doc_template.txt" />
+<file name="doxyfile.txt" />
+<file name="Doxygen_Examples.cpp" />
+</folder>
+<file name="ascii_table.gif" />
+<file name="Coding Standards.pdf" />
+<file name="CSC 250 Syllabus Spring 2015.pdf" />
+<file name="CSC 250 Syllabus Spring 2015v2.pdf" />
+<file name="OfficeHours.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Before Exam 1">
+<file name="A New Place in the World.ppt" />
+<file name="An Industrial Society.ppt" />
+<file name="Industrialization and Urbanization.ppt" />
+<file name="Politics and the State.ppt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Before Exam 2">
+<file name="Progressivism.ppt" />
+<file name="The 1920s.ppt" />
+<file name="The Great Depression.ppt" />
+<file name="The United States in WWI.ppt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Before Exam 3">
+<file name="Origins of the Cold War.ppt" />
+<file name="The Ike Age.ppt" />
+<file name="The Sixties.ppt" />
+<file name="Whirlpool of War.ppt" />
+<file name="World War II.ppt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Before Final">
+<file name="At War Against Terror.ppt" />
+<file name="Conservative Revival.ppt" />
+<file name="Politics of Division.ppt" />
+<file name="The Cold War is Over.ppt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Group Docs">
+<file name="American Imperialism.pdf" />
+<file name="Anti-Communism.pdf" />
+<file name="Great Depression.pdf" />
+<file name="Sears Ads.pdf" />
+<file name="The Factory System Documents.pdf" />
+<file name="U.S. &amp; World War I.pdf" />
+<file name="Vietnam Policy.pdf" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Individual Writing Assignments">
+<file name="How the Other Half Lives.doc" />
+<file name="How the Other Half Lives.docx" />
+<file name="Individual Writing Assignment 2.docx" />
+<file name="Individual Writing Assignment 3.docx" />
+<file name="The Only Thing We Have to Fear Is Fear Itself.doc" />
+<file name="World War II Homefront.doc" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Notes">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Hist152\Study Guides">
+<file name="HIST 152 Study Guide 1.docx" />
+<file name="HIST 152 Study Guide 2.docx" />
+<file name="HIST 152 Study Guide 3.docx" />
+<file name="HIST 152 Study Guide 4.docx" />
+</folder>
+<file name="HIST 152 Syllabus S15.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Math125">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Math125\Maple">
+<file name="3 planes.mw" />
+<file name="example 1.mw" />
+<file name="example 2.mw" />
+<file name="example 3.mw" />
+<file name="hmwk #1.mw" />
+<file name="hmwk #2.mw" />
+<file name="hmwk #2.pdf" />
+<file name="row operations.mw" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Math125\Notes">
+<file name="1.3 Notes.jnt" />
+<file name="10.2 Infinite Series.jnt" />
+<file name="10.3 cont.jnt" />
+<file name="10.3 The integral test.jnt" />
+<file name="10.4 Comparison Tests.jnt" />
+<file name="10.6 Error Estimation.jnt" />
+<file name="12.2-12.4 HW.jnt" />
+<file name="12.5 equations of lines and planes.jnt" />
+<file name="7.5 continued.jnt" />
+<file name="7.5 L'Hopitals Rule.jnt" />
+<file name="7.7.ppsx" />
+<file name="8.3 Trig integral products sines and cosines.jnt" />
+<file name="8.5 Partial fractions continued.jnt" />
+<file name="8.5 Partial fractions.jnt" />
+<file name="8.8 Improper integrals.jnt" />
+<file name="ch 10 notes.docx" />
+<file name="Determinants (updated).pptx" />
+<file name="Exam 1.jnt" />
+<file name="hyperbolic trig &amp;&amp; trig sub.jnt" />
+<file name="Iamscrewed.jnt" />
+<file name="Integrate Inverse Trig using IBP.jnt" />
+<file name="inverse matrices.jnt" />
+<file name="Inverse Trig.jnt" />
+<file name="Matrices.jnt" />
+<file name="Matrix Inverses.pptx" />
+<file name="Notes 1.29.15.jnt" />
+<file name="quiz 2 answers.jnt" />
+<file name="Quiz 6 Notes.jnt" />
+<file name="Quiz notes and HWhelp.jnt" />
+<file name="Ratio Test &amp;&amp; Alternating series.jnt" />
+<file name="Ratio Test.jnt" />
+<file name="RelatingMatricesToSolvingEquations.jnt" />
+<file name="Review for exam2.jnt" />
+<file name="Series Examplesjnt.jnt" />
+<file name="Series Tests.pptx" />
+<file name="Stack Queues.jnt" />
+<file name="Trig Substitution.jnt" />
+<file name="Vectors.jnt" />
+<file name="Vectors.pptx" />
+</folder>
+<file name="schedule.pdf" />
+<file name="syllabus.docx" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Phys211">
+<folder name = "C:\Users\7258660\Documents\Semester 2\Phys211\Exam 1 Stuff">
+<file name="1.21.15 ch 3 notes.jnt" />
+<file name="3.4 Notes.jnt" />
+<file name="ch01.pdf" />
+<file name="ch02.pdf" />
+<file name="ch03.pdf" />
+<file name="ch04.pdf" />
+<file name="CH1.jnt" />
+<file name="Notes.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Phys211\Exam 2 Stuff">
+<file name="Ch 6 Notes.jnt" />
+<file name="ch 6.jnt" />
+<file name="ch05.pdf" />
+<file name="ch06.pdf" />
+<file name="ch5 continued.jnt" />
+<file name="Ch5 Notes.jnt" />
+<file name="Ch6.jnt" />
+<file name="Ch6Notes.jnt" />
+<file name="EvenMoreCh5.jnt" />
+<file name="ExtraCredit-Geosynchronous.pdf" />
+<file name="MoreCh5.jnt" />
+<file name="Review.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Phys211\Exam 3 Stuff">
+<file name="ch 7 power.jnt" />
+<file name="ch 7.jnt" />
+<file name="CH 8 Mechananical Energy.jnt" />
+<file name="CH 8 PE and Work.jnt" />
+<file name="Ch 8 Work &amp; PE.jnt" />
+<file name="ch07.pdf" />
+<file name="Ch7 Some Background.jnt" />
+<file name="Ch7 Work &amp; Springs.jnt" />
+<file name="Ch8.jnt" />
+<file name="Examples.jnt" />
+<file name="sample Problems.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Semester 2\Phys211\Exam 4 Final Stuff">
+<file name="CH 9.jnt" />
+</folder>
+<file name="Introduction.pdf" />
+<file name="PHYS_211_Cheat_Sheet_ALL_Chapters.pdf" />
+<file name="PHYS_211_Syllabus_Spring_2015.pdf" />
+</folder>
+<file name="Vectors.jnt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4">
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Exception Reports">
+<file name="SimCity Exception Minidump 2015.01.14 19.06.44.mdmp" />
+<file name="SimCity Exception Minidump 2015.01.15 20.16.16.mdmp" />
+<file name="SimCity Exception Report 2015.01.14 19.06.44.txt" />
+<file name="SimCity Exception Report 2015.01.15 20.16.16.txt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\HTTPCache">
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Plugins">
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions">
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\Berlin">
+<file name="City - Konradshohe.sc4" />
+<file name="City - New City (10).sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (21).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (23).sc4" />
+<file name="City - New City (24).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (31).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (45).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (5).sc4" />
+<file name="City - New City (50).sc4" />
+<file name="City - New City (51).sc4" />
+<file name="City - New City (52).sc4" />
+<file name="City - New City (53).sc4" />
+<file name="City - New City (54).sc4" />
+<file name="City - New City (55).sc4" />
+<file name="City - New City (56).sc4" />
+<file name="City - New City (57).sc4" />
+<file name="City - New City (58).sc4" />
+<file name="City - New City (59).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (60).sc4" />
+<file name="City - New City (62).sc4" />
+<file name="City - New City (63).sc4" />
+<file name="City - New City (66).sc4" />
+<file name="City - New City (67).sc4" />
+<file name="City - New City (68).sc4" />
+<file name="City - New City (69).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (70).sc4" />
+<file name="City - New City (71).sc4" />
+<file name="City - New City (72).sc4" />
+<file name="City - New City (73).sc4" />
+<file name="City - New City (74).sc4" />
+<file name="City - New City (75).sc4" />
+<file name="City - New City (76).sc4" />
+<file name="City - New City (77).sc4" />
+<file name="City - New City (78).sc4" />
+<file name="City - New City (79).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (80).sc4" />
+<file name="City - New City (81).sc4" />
+<file name="City - New City (82).sc4" />
+<file name="City - New City (83).sc4" />
+<file name="City - New City (84).sc4" />
+<file name="City - New City (85).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City.sc4" />
+<file name="City - Schonerlinde.sc4" />
+<file name="City - Spandau.sc4" />
+<file name="City - Tegel.sc4" />
+<file name="City - Tempelhof.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\Downloads">
+<file name="City - New City.sc4" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\Fairview">
+<file name="City - New City (10).sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (21).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (23).sc4" />
+<file name="City - New City (24).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (29).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (31).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (39).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (45).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (5).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\London">
+<file name="City - Fulham.sc4" />
+<file name="City - Kensington.sc4" />
+<file name="City - New City (10).sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (21).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (29).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (31).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (39).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (45).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (50).sc4" />
+<file name="City - New City (51).sc4" />
+<file name="City - New City (52).sc4" />
+<file name="City - New City (53).sc4" />
+<file name="City - New City (54).sc4" />
+<file name="City - New City (55).sc4" />
+<file name="City - New City (56).sc4" />
+<file name="City - New City (57).sc4" />
+<file name="City - New City (58).sc4" />
+<file name="City - New City (59).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (60).sc4" />
+<file name="City - New City (61).sc4" />
+<file name="City - New City (62).sc4" />
+<file name="City - New City (63).sc4" />
+<file name="City - New City (64).sc4" />
+<file name="City - New City (65).sc4" />
+<file name="City - New City (66).sc4" />
+<file name="City - New City (67).sc4" />
+<file name="City - New City (68).sc4" />
+<file name="City - New City (69).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (71).sc4" />
+<file name="City - New City (72).sc4" />
+<file name="City - New City (73).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City.sc4" />
+<file name="City - Sydenham.sc4" />
+<file name="City - Woolwich.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\New York">
+<file name="City - New City (10).sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (21).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (23).sc4" />
+<file name="City - New City (24).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (29).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (31).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (39).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (45).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (5).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\San Francisco">
+<file name="City - New City (10).sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (21).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (23).sc4" />
+<file name="City - New City (24).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (29).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (31).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (39).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (45).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (5).sc4" />
+<file name="City - New City (50).sc4" />
+<file name="City - New City (51).sc4" />
+<file name="City - New City (52).sc4" />
+<file name="City - New City (53).sc4" />
+<file name="City - New City (54).sc4" />
+<file name="City - New City (55).sc4" />
+<file name="City - New City (56).sc4" />
+<file name="City - New City (57).sc4" />
+<file name="City - New City (58).sc4" />
+<file name="City - New City (59).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (60).sc4" />
+<file name="City - New City (61).sc4" />
+<file name="City - New City (62).sc4" />
+<file name="City - New City (63).sc4" />
+<file name="City - New City (64).sc4" />
+<file name="City - New City (65).sc4" />
+<file name="City - New City (66).sc4" />
+<file name="City - New City (67).sc4" />
+<file name="City - New City (68).sc4" />
+<file name="City - New City (69).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\SimCity 4\Regions\Timbuktu">
+<file name="City - Big City Tutorial.sc4" />
+<file name="City - Getting Started Tutorial.sc4" />
+<file name="City - Making Money Tutorial.sc4" />
+<file name="City - New City (11).sc4" />
+<file name="City - New City (12).sc4" />
+<file name="City - New City (13).sc4" />
+<file name="City - New City (14).sc4" />
+<file name="City - New City (15).sc4" />
+<file name="City - New City (16).sc4" />
+<file name="City - New City (17).sc4" />
+<file name="City - New City (18).sc4" />
+<file name="City - New City (19).sc4" />
+<file name="City - New City (2).sc4" />
+<file name="City - New City (20).sc4" />
+<file name="City - New City (22).sc4" />
+<file name="City - New City (23).sc4" />
+<file name="City - New City (24).sc4" />
+<file name="City - New City (25).sc4" />
+<file name="City - New City (26).sc4" />
+<file name="City - New City (27).sc4" />
+<file name="City - New City (28).sc4" />
+<file name="City - New City (29).sc4" />
+<file name="City - New City (3).sc4" />
+<file name="City - New City (30).sc4" />
+<file name="City - New City (32).sc4" />
+<file name="City - New City (33).sc4" />
+<file name="City - New City (34).sc4" />
+<file name="City - New City (35).sc4" />
+<file name="City - New City (36).sc4" />
+<file name="City - New City (37).sc4" />
+<file name="City - New City (38).sc4" />
+<file name="City - New City (39).sc4" />
+<file name="City - New City (4).sc4" />
+<file name="City - New City (40).sc4" />
+<file name="City - New City (41).sc4" />
+<file name="City - New City (42).sc4" />
+<file name="City - New City (43).sc4" />
+<file name="City - New City (44).sc4" />
+<file name="City - New City (46).sc4" />
+<file name="City - New City (47).sc4" />
+<file name="City - New City (48).sc4" />
+<file name="City - New City (49).sc4" />
+<file name="City - New City (5).sc4" />
+<file name="City - New City (50).sc4" />
+<file name="City - New City (51).sc4" />
+<file name="City - New City (52).sc4" />
+<file name="City - New City (53).sc4" />
+<file name="City - New City (54).sc4" />
+<file name="City - New City (55).sc4" />
+<file name="City - New City (56).sc4" />
+<file name="City - New City (57).sc4" />
+<file name="City - New City (58).sc4" />
+<file name="City - New City (59).sc4" />
+<file name="City - New City (6).sc4" />
+<file name="City - New City (60).sc4" />
+<file name="City - New City (61).sc4" />
+<file name="City - New City (62).sc4" />
+<file name="City - New City (63).sc4" />
+<file name="City - New City (64).sc4" />
+<file name="City - New City (65).sc4" />
+<file name="City - New City (66).sc4" />
+<file name="City - New City (67).sc4" />
+<file name="City - New City (68).sc4" />
+<file name="City - New City (69).sc4" />
+<file name="City - New City (7).sc4" />
+<file name="City - New City (70).sc4" />
+<file name="City - New City (71).sc4" />
+<file name="City - New City (72).sc4" />
+<file name="City - New City (73).sc4" />
+<file name="City - New City (74).sc4" />
+<file name="City - New City (75).sc4" />
+<file name="City - New City (76).sc4" />
+<file name="City - New City (77).sc4" />
+<file name="City - New City (78).sc4" />
+<file name="City - New City (79).sc4" />
+<file name="City - New City (8).sc4" />
+<file name="City - New City (80).sc4" />
+<file name="City - New City (81).sc4" />
+<file name="City - New City (82).sc4" />
+<file name="City - New City (83).sc4" />
+<file name="City - New City (84).sc4" />
+<file name="City - New City (85).sc4" />
+<file name="City - New City (86).sc4" />
+<file name="City - New City (87).sc4" />
+<file name="City - New City (88).sc4" />
+<file name="City - New City (89).sc4" />
+<file name="City - New City (9).sc4" />
+<file name="City - New City (90).sc4" />
+<file name="City - New City (91).sc4" />
+<file name="City - New City.sc4" />
+<file name="City - Rush Hour Tutorial.sc4" />
+<file name="config.bmp" />
+<file name="region.ini" />
+</folder>
+</folder>
+<file name="SimCity 4.cfg" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\ArchitectureExplorer">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\fuckstupidavast">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\HW13">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\lab10">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\Prog3">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\Program1">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Backup Files\Program3">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\JavaScript">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\JavaScript\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\SQL_SSDT">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\SQL_SSDT\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual Basic">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual Basic\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual C#">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual C#\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual C++">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual C++\My Code Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual Web Developer">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual Web Developer\My CSS Snippets">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\Visual Web Developer\My HTML Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\XAML">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\XAML\My XAML Snippets">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\XML">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Code Snippets\XML\My Xml Snippets">
+</folder>
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\Debug\HW1.Windows">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\Debug\HW1.WindowsPhone">
+</folder>
+<file name="HW1.exe" />
+<file name="HW1.ilk" />
+<file name="HW1.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\Debug\HW1.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW1.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW1.log" />
+<file name="hw1.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Shared">
+<file name="App.xaml" />
+<file name="App.xaml.cpp" />
+<file name="App.xaml.h" />
+<file name="HW1.Shared.vcxitems" />
+<file name="HW1.Shared.vcxitems.filters" />
+<file name="pch.cpp" />
+<file name="pch.h" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Windows">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Windows\Assets">
+<file name="Logo.scale-100.png" />
+<file name="SmallLogo.scale-100.png" />
+<file name="SplashScreen.scale-100.png" />
+<file name="StoreLogo.scale-100.png" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Windows\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Windows\Debug\HW1.Windows.tlog">
+</folder>
+<file name="HW1.Windows.vcxprojResolveAssemblyReference.cache" />
+<file name="XamlSaveStateFile.xml" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.Windows\Generated Files">
+<file name="App.g.h" />
+<file name="MainPage.g.h" />
+<file name="XamlLibMetadataProvider.g.cpp" />
+<file name="XamlTypeInfo.g.h" />
+<file name="XamlTypeInfo.Impl.g.cpp" />
+</folder>
+<file name="HW1.Windows.vcxproj" />
+<file name="HW1.Windows.vcxproj.filters" />
+<file name="HW1.Windows_TemporaryKey.pfx" />
+<file name="MainPage.xaml" />
+<file name="MainPage.xaml.cpp" />
+<file name="MainPage.xaml.h" />
+<file name="Package.appxmanifest" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.WindowsPhone">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.WindowsPhone\Assets">
+<file name="Logo.scale-240.png" />
+<file name="SmallLogo.scale-240.png" />
+<file name="SplashScreen.scale-240.png" />
+<file name="Square71x71Logo.scale-240.png" />
+<file name="StoreLogo.scale-240.png" />
+<file name="WideLogo.scale-240.png" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.WindowsPhone\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.WindowsPhone\Debug\HW1.WindowsPhone.tlog">
+</folder>
+<file name="HW1.WindowsPhone.vcxprojResolveAssemblyReference.cache" />
+<file name="XamlSaveStateFile.xml" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW1\HW1\HW1.WindowsPhone\Generated Files">
+<file name="App.g.h" />
+<file name="MainPage.g.h" />
+<file name="XamlLibMetadataProvider.g.cpp" />
+<file name="XamlTypeInfo.g.h" />
+<file name="XamlTypeInfo.Impl.g.cpp" />
+</folder>
+<file name="HW1.WindowsPhone.vcxproj" />
+<file name="HW1.WindowsPhone.vcxproj.filters" />
+<file name="MainPage.xaml" />
+<file name="MainPage.xaml.cpp" />
+<file name="MainPage.xaml.h" />
+<file name="Package.appxmanifest" />
+</folder>
+<file name="hw1.cpp" />
+<file name="HW1.vcxproj" />
+<file name="HW1.vcxproj.filters" />
+</folder>
+<file name="HW1.sdf" />
+<file name="HW1.sln" />
+<file name="HW1.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW12">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW12\Debug">
+<file name="HW12.exe" />
+<file name="HW12.ilk" />
+<file name="HW12.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW12\HW12">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW12\HW12\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW12\HW12\Debug\HW12.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW12.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW12.log" />
+<file name="permutes.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW12.vcxproj" />
+<file name="HW12.vcxproj.filters" />
+<file name="permutes.cpp" />
+</folder>
+<file name="HW12.sdf" />
+<file name="HW12.sln" />
+<file name="HW12.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW13">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW13\Debug">
+<file name="HW13.exe" />
+<file name="HW13.ilk" />
+<file name="HW13.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW13\HW13">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW13\HW13\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW13\HW13\Debug\HW13.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW13.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="Homework13.obj" />
+<file name="HW13.log" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="Homework13.cpp" />
+<file name="HW13.vcxproj" />
+<file name="HW13.vcxproj.filters" />
+</folder>
+<file name="HW13.sdf" />
+<file name="HW13.sln" />
+<file name="HW13.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\hw2">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\hw2\Debug">
+<file name="hw2.exe" />
+<file name="hw2.ilk" />
+<file name="hw2.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\hw2\hw2">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\hw2\hw2\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\hw2\hw2\Debug\hw2.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="hw2.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="hw2.log" />
+<file name="hw2.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="hw2.cpp" />
+<file name="hw2.vcxproj" />
+<file name="hw2.vcxproj.filters" />
+</folder>
+<file name="hw2.sdf" />
+<file name="hw2.sln" />
+<file name="hw2.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW3">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW3\Debug">
+<file name="HW3.exe" />
+<file name="HW3.ilk" />
+<file name="HW3.pdb" />
+<file name="input.txt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW3\HW3">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW3\HW3\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW3\HW3\Debug\HW3.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW3.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW3.log" />
+<file name="HW3.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW3.cpp" />
+<file name="HW3.vcxproj" />
+<file name="HW3.vcxproj.filters" />
+</folder>
+<file name="HW3.sdf" />
+<file name="HW3.sln" />
+<file name="HW3.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW4">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW4\Debug">
+<file name="HW4.exe" />
+<file name="HW4.ilk" />
+<file name="HW4.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW4\HW4">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW4\HW4\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW4\HW4\Debug\HW4.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW4.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW4.log" />
+<file name="HW4.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW4.cpp" />
+<file name="HW4.vcxproj" />
+<file name="HW4.vcxproj.filters" />
+</folder>
+<file name="HW4.sdf" />
+<file name="HW4.sln" />
+<file name="HW4.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW5">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW5\Debug">
+<file name="case1.ans" />
+<file name="case1.bin" />
+<file name="case2.ans" />
+<file name="doubles.bin" />
+<file name="HW5.exe" />
+<file name="HW5.ilk" />
+<file name="HW5.pdb" />
+<file name="results.bin" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW5\HW5">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW5\HW5\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW5\HW5\Debug\HW5.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW5.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW5.Build.CppClean.log" />
+<file name="HW5.log" />
+<file name="HW5.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW5.cpp" />
+<file name="HW5.vcxproj" />
+<file name="HW5.vcxproj.filters" />
+</folder>
+<file name="HW5.sdf" />
+<file name="HW5.sln" />
+<file name="HW5.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW6">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW6\Debug">
+<file name="desc.txt" />
+<file name="HW6.exe" />
+<file name="HW6.ilk" />
+<file name="HW6.pdb" />
+<file name="HW6.v12.suo" />
+<file name="numbers.txt" />
+<file name="prime.txt" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW6\HW6">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW6\HW6\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW6\HW6\Debug\HW6.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW6.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="HW6.log" />
+<file name="HW6.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW6.cpp" />
+<file name="HW6.vcxproj" />
+<file name="HW6.vcxproj.filters" />
+<file name="HW6.vcxproj.user" />
+</folder>
+<file name="HW6.sdf" />
+<file name="HW6.sln" />
+<file name="HW6.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW7">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW7\Debug">
+<file name="HW7.exe" />
+<file name="HW7.ilk" />
+<file name="HW7.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW7\HW7">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW7\HW7\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW7\HW7\Debug\HW7.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW7.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="Homework7.obj" />
+<file name="HW7.log" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW7.vcxproj" />
+<file name="HW7.vcxproj.filters" />
+</folder>
+<file name="HW7.sdf" />
+<file name="HW7.sln" />
+<file name="HW7.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW8">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW8\Debug">
+<file name="HW8.exe" />
+<file name="HW8.ilk" />
+<file name="HW8.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW8\HW8">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW8\HW8\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\HW8\HW8\Debug\HW8.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="HW8.lastbuildstate" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+</folder>
+<file name="Homework8.obj" />
+<file name="HW8.log" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="HW8.vcxproj" />
+<file name="HW8.vcxproj.filters" />
+</folder>
+<file name="HW8.sdf" />
+<file name="HW8.sln" />
+<file name="HW8.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Prog3">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Prog3\Debug">
+<file name="Prog3.exe" />
+<file name="Prog3.ilk" />
+<file name="Prog3.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Prog3\Prog3">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Prog3\Prog3\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Prog3\Prog3\Debug\Prog3.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="Prog3.lastbuildstate" />
+</folder>
+<file name="Prog3.log" />
+<file name="Prog3.obj" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<file name="dir.xml" />
+<file name="Prog3.cpp" />
+<file name="Prog3.vcxproj" />
+<file name="Prog3.vcxproj.filters" />
+<file name="Prog3.vcxproj.user" />
+</folder>
+<file name="Prog3.opensdf" />
+<file name="Prog3.sdf" />
+<file name="Prog3.sln" />
+<file name="Prog3.v12.suo" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Debug">
+<file name="Program1.exe" />
+<file name="Program1.ilk" />
+<file name="Program1.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Program1">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Program1\Debug">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Program1\Debug\Program1.tlog">
+<file name="cl.command.1.tlog" />
+<file name="CL.read.1.tlog" />
+<file name="CL.write.1.tlog" />
+<file name="link.command.1.tlog" />
+<file name="link.read.1.tlog" />
+<file name="link.write.1.tlog" />
+<file name="Program1.lastbuildstate" />
+</folder>
+<file name="functions.obj" />
+<file name="functons.obj" />
+<file name="prog1.obj" />
+<file name="Program1.Build.CppClean.log" />
+<file name="Program1.log" />
+<file name="vc120.idb" />
+<file name="vc120.pdb" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Program1\html">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Projects\Program1\Program1\html\search">
+<file name="all_61.html" />
+<file name="all_61.js" />
+<file name="all_62.html" />
+<file name="all_62.js" />
+<file name="all_63.html" />
+<file name="all_63.js" />
+<file name="all_64.html" />
+<file name="all_64.js" />
+<file name="all_65.html" />
+<file name="all_65.js" />
+<file name="all_66.html" />
+<file name="all_66.js" />
+<file name="all_6c.html" />
+<file name="all_6c.js" />
+<file name="all_6d.html" />
+<file name="all_6d.js" />
+<file name="all_6e.html" />
+<file name="all_6e.js" />
+<file name="all_6f.html" />
+<file name="all_6f.js" />
+<file name="all_70.html" />
+<file name="all_70.js" />
+<file name="all_72.html" />
+<file name="all_72.js" />
+<file name="all_73.html" />
+<file name="all_73.js" />
+<file name="all_74.html" />
+<file name="all_74.js" />
+<file name="all_76.html" />
+<file name="all_76.js" />
+<file name="all_79.html" />
+<file name="all_79.js" />
+<file name="all_7a.html" />
+<file name="all_7a.js" />
+<file name="classes_72.html" />
+<file name="classes_72.js" />
+<file name="close.png" />
+<file name="files_66.html" />
+<file name="files_66.js" />
+<file name="files_70.html" />
+<file name="files_70.js" />
+<file name="functions_63.html" />
+<file name="functions_63.js" />
+<file name="functions_64.html" />
+<file name="functions_64.js" />
+<file name="functions_65.html" />
+<file name="functions_65.js" />
+<file name="functions_6d.html" />
+<file name="functions_6d.js" />
+<file name="functions_6e.html" />
+<file name="functions_6e.js" />
+<file name="functions_6f.html" />
+<file name="functions_6f.js" />
+<file name="functions_73.html" />
+<file name="functions_73.js" />
+<file name="functions_79.html" />
+<file name="functions_79.js" />
+<file name="functions_7a.html" />
+<file name="functions_7a.js" />
+<file name="mag_sel.png" />
+<file name="nomatches.html" />
+<file name="pages_62.html" />
+<file name="pages_62.js" />
+<file name="pages_70.html" />
+<file name="pages_70.js" />
+<file name="pages_74.html" />
+<file name="pages_74.js" />
+<file name="search.css" />
+<file name="search.js" />
+<file name="search_l.png" />
+<file name="search_m.png" />
+<file name="search_r.png" />
+<file name="variables_61.html" />
+<file name="variables_61.js" />
+<file name="variables_62.html" />
+<file name="variables_62.js" />
+<file name="variables_63.html" />
+<file name="variables_63.js" />
+<file name="variables_64.html" />
+<file name="variables_64.js" />
+<file name="variables_65.html" />
+<file name="variables_65.js" />
+<file name="variables_6c.html" />
+<file name="variables_6c.js" />
+<file name="variables_6d.html" />
+<file name="variables_6d.js" />
+<file name="variables_6e.html" />
+<file name="variables_6e.js" />
+<file name="variables_72.html" />
+<file name="variables_72.js" />
+<file name="variables_73.html" />
+<file name="variables_73.js" />
+<file name="variables_76.html" />
+<file name="variables_76.js" />
+<file name="variables_79.html" />
+<file name="variables_79.js" />
+<file name="variables_7a.html" />
+<file name="variables_7a.js" />
+</folder>
+<file name="annotated.html" />
+<file name="bc_s.png" />
+<file name="bdwn.png" />
+<file name="bug.html" />
+<file name="classes.html" />
+<file name="closed.png" />
+<file name="doxygen.css" />
+<file name="doxygen.png" />
+<file name="dynsections.js" />
+<file name="files.html" />
+<file name="ftv2blank.png" />
+<file name="ftv2cl.png" />
+<file name="ftv2doc.png" />
+<file name="ftv2folderclosed.png" />
+<file name="ftv2folderopen.png" />
+<file name="ftv2lastnode.png" />
+<file name="ftv2link.png" />
+<file name="ftv2mlastnode.png" />
+<file name="ftv2mnode.png" />
+<file name="ftv2mo.png" />
+<file name="ftv2node.png" />
+<file name="ftv2ns.png" />
+<file name="ftv2plastnode.png" />
+<file name="ftv2pnode.png" />
+<file name="ftv2splitbar.png" />
+<file name="ftv2vertline.png" />
+<file name="functions.html" />
+<file name="functions_8h.html" />
+<file name="functions_8h_source.html" />
+<file name="functions_vars.html" />
+<file name="functons_8cpp.html" />
+<file name="functons_8cpp_source.html" />
+<file name="globals.html" />
+<file name="globals_func.html" />
+<file name="globals_vars.html" />
+<file name="index.html" />
+<file name="jquery.js" />
+<file name="nav_f.png" />
+<file name="nav_g.png" />
+<file name="nav_h.png" />
+<file name="open.png" />
+<file name="pages.html" />
+<file name="prog1_8cpp.html" />
+<file name="prog1_8cpp_source.html" />
+<file name="struct_record-members.html" />
+<file name="struct_record.html" />
+<file name="sync_off.png" />
+<file name="sync_on.png" />
+<file name="tabs.css" />
+<file name="tab_a.png" />
+<file name="tab_b.png" />
+<file name="tab_h.png" />
+<file name="tab_s.png" />
+<file name="todo.html" />
+</folder>
+<file name="bad.txt" />
+<file name="bintool.exe" />
+<file name="dbham.bin" />
+<file name="functions.cpp" />
+<file name="functions.h" />
+<file name="good.bin" />
+<file name="hamradio.bin" />
+<file name="prog1.cpp" />
+<file name="Program1.vcxproj" />
+<file name="Program1.vcxproj.filters" />
+<file name="Program1.vcxproj.user" />
+</folder>
+<file name="Program1.sdf" />
+<file name="Program1.sln" />
+<file name="Program1.v12.suo" />
+</folder>
+<file name="Program1 Original.zip" />
+<file name="Program1.zip" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Settings">
+<file name="CurrentSettings-2015-01-12.vssettings" />
+<file name="CurrentSettings.vssettings" />
+<file name="FontsAndColorsBackup_1ded0138-47ce-435e-84ef-9ec1f439b749.vssettings" />
+<file name="FontsAndColorsBackup_de3dbbcd-f642-433c-8353-8f1df4370aba.vssettings" />
+<file name="Old.CurrentSettings.vssettings" />
+<file name="Windows Azure Subscriptions.xml" />
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\StartPages">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\Extensibility">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\JavaScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\TypeScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\Visual Basic">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\Visual C#">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\Visual C++ Project">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ItemTemplates\Visual Web Developer">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates">
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\Extensibility">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\JavaScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\TypeScript">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\Visual Basic">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\Visual C#">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\Visual C++ Project">
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Templates\ProjectTemplates\Visual Web Developer">
+</folder>
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\Visual Studio 2013\Visualizers">
+</folder>
+</folder>
+<folder name = "C:\Users\7258660\Documents\WPA Files">
+<file name="Preferences.xml" />
+</folder>
+<file name="Default.rdp" />
+<file name="desktop.ini" />
+</folder>

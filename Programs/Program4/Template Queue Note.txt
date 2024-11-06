@@ -1,0 +1,1 @@
+Your template queue must be a singly linked list or a circular linked list.
